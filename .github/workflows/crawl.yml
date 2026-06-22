@@ -1,0 +1,48 @@
+name: Weekly Crawl - JCA Meikyoku Series
+
+on:
+  schedule:
+    - cron: "0 18 * * 0"
+  workflow_dispatch:
+    inputs:
+      dry_run:
+        description: "true にすると songs.json を更新せず結果だけ表示する"
+        required: false
+        default: "false"
+
+permissions:
+  contents: write
+
+jobs:
+  crawl:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        run: pip install requests beautifulsoup4
+
+      - name: Run crawler (dry-run)
+        if: ${{ github.event.inputs.dry_run == 'true' }}
+        run: python jca_meikyoku_crawler.py --dry-run
+
+      - name: Run crawler
+        if: ${{ github.event.inputs.dry_run != 'true' }}
+        run: python jca_meikyoku_crawler.py
+
+      - name: Commit and push if changed
+        if: ${{ github.event.inputs.dry_run != 'true' }}
+        run: |
+          git config user.name "jca-choral-db-bot"
+          git config user.email "actions@users.noreply.github.com"
+          if git diff --quiet -- songs.json; then
+            echo "差分なし。コミットをスキップします。"
+          else
+            git add songs.json
+            git commit -m "chore: 自動クロールによる楽曲データ更新 ($(date -u +%Y-%m-%d))"
+            git push
+          fi
