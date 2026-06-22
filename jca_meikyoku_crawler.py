@@ -42,7 +42,7 @@ from parser import parse_block, extract_footnote_metadata  # noqa: E402
 
 EDITION_URL_TEMPLATE = "https://jcanet.or.jp/Public/meikyoku/meikyoku-No{n}.htm"
 INDEX_URL = "https://jcanet.or.jp/Public/meikyoku/meikyoku-index.htm"
-DATA_PATH = Path(__file__).resolve().parent.parent / "data" / "songs.json"
+DATA_PATH = Path(__file__).resolve().parent / "songs.json"
 
 # 2026年6月時点で確認できている最新号。--end-no 省略時のフォールバック。
 # meikyoku-index.htm から自動検出できればそちらを優先する。
