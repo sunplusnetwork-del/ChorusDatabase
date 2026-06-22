@@ -1,0 +1,414 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>日本合唱曲データベース</title>
+<meta name="description" content="全日本合唱連盟の課題曲などをもとに自動収集・コミュニティ校正で育つ、管理者不要の合唱曲検索データベース。">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Shippori+Mincho:wght@500;700&family=Noto+Sans+JP:wght@400;500;700&display=swap" rel="stylesheet">
+<style>
+  :root {
+    --bg: #1b1a18;
+    --bg-raised: #242220;
+    --rule: #3a3733;
+    --text: #ece7dd;
+    --text-faint: #9c9588;
+    --shu: #e0492b;
+    --shu-dim: #5c2a20;
+    --indigo: #6f8aa6;
+    --radius: 3px;
+    --max-w: 760px;
+  }
+
+  * { box-sizing: border-box; }
+
+  html { color-scheme: dark; }
+
+  body {
+    margin: 0;
+    background: var(--bg);
+    background-image: repeating-linear-gradient(
+      to bottom,
+      transparent,
+      transparent 27px,
+      var(--rule) 27px,
+      var(--rule) 28px,
+      transparent 28px,
+      transparent 55px
+    );
+    background-attachment: local;
+    color: var(--text);
+    font-family: "Noto Sans JP", sans-serif;
+    line-height: 1.7;
+    -webkit-font-smoothing: antialiased;
+  }
+
+  a { color: var(--indigo); }
+
+  .wrap {
+    max-width: var(--max-w);
+    margin: 0 auto;
+    padding: 56px 20px 80px;
+  }
+
+  header {
+    margin-bottom: 40px;
+  }
+
+  .eyebrow {
+    font-size: 0.75rem;
+    letter-spacing: 0.18em;
+    color: var(--text-faint);
+    margin: 0 0 10px;
+  }
+
+  h1 {
+    font-family: "Shippori Mincho", serif;
+    font-weight: 700;
+    font-size: clamp(1.7rem, 5vw, 2.4rem);
+    margin: 0 0 12px;
+    letter-spacing: 0.02em;
+  }
+
+  .lede {
+    color: var(--text-faint);
+    font-size: 0.95rem;
+    max-width: 56ch;
+    margin: 0;
+  }
+
+  .lede strong { color: var(--text); font-weight: 500; }
+
+  /* --- 検索 --- */
+  .search-block { margin: 36px 0 18px; }
+
+  .search-input {
+    width: 100%;
+    background: var(--bg-raised);
+    border: 1px solid var(--rule);
+    border-radius: var(--radius);
+    color: var(--text);
+    font-family: "Shippori Mincho", serif;
+    font-size: 1.15rem;
+    padding: 14px 16px;
+    outline: none;
+    transition: border-color 0.15s ease;
+  }
+  .search-input::placeholder { color: var(--text-faint); font-family: "Noto Sans JP", sans-serif; }
+  .search-input:focus {
+    border-color: var(--shu);
+    box-shadow: 0 0 0 3px var(--shu-dim);
+  }
+
+  .chips {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 8px;
+    margin-top: 14px;
+  }
+
+  .chip {
+    appearance: none;
+    background: transparent;
+    border: 1px solid var(--rule);
+    color: var(--text-faint);
+    font-family: "Noto Sans JP", sans-serif;
+    font-size: 0.82rem;
+    padding: 6px 14px;
+    border-radius: 999px;
+    cursor: pointer;
+    transition: all 0.15s ease;
+  }
+  .chip:hover { border-color: var(--text-faint); color: var(--text); }
+  .chip:focus-visible { outline: 2px solid var(--shu); outline-offset: 2px; }
+  .chip.active {
+    border-color: var(--shu);
+    color: var(--shu);
+    background: var(--shu-dim);
+  }
+
+  .meta-row {
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+    margin: 30px 0 6px;
+    font-size: 0.8rem;
+    color: var(--text-faint);
+  }
+
+  /* --- 結果リスト --- */
+  ul.results {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    border-top: 1px solid var(--rule);
+  }
+
+  .song {
+    display: grid;
+    grid-template-columns: 44px 1fr;
+    gap: 14px;
+    padding: 18px 0;
+    border-bottom: 1px solid var(--rule);
+  }
+
+  .stamp {
+    width: 38px;
+    height: 38px;
+    background: var(--shu);
+    color: var(--bg);
+    border-radius: var(--radius);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-family: "Shippori Mincho", serif;
+    font-weight: 700;
+    font-size: 0.78rem;
+    transform: rotate(var(--tilt, -1.5deg));
+    flex-shrink: 0;
+  }
+
+  .song-title {
+    font-family: "Shippori Mincho", serif;
+    font-size: 1.12rem;
+    font-weight: 700;
+    margin: 0 0 4px;
+    display: flex;
+    align-items: baseline;
+    gap: 8px;
+    flex-wrap: wrap;
+  }
+
+  .review-mark {
+    font-family: "Shippori Mincho", serif;
+    font-size: 0.72rem;
+    color: var(--shu);
+    border: 1px solid var(--shu-dim);
+    border-radius: 999px;
+    padding: 1px 8px 2px;
+    cursor: help;
+  }
+
+  .song-sub {
+    color: var(--text-faint);
+    font-size: 0.88rem;
+    margin: 0;
+  }
+  .song-sub .voicing {
+    color: var(--indigo);
+  }
+  .song-sub .sep { margin: 0 6px; opacity: 0.5; }
+
+  .empty-state {
+    padding: 60px 0;
+    text-align: center;
+    color: var(--text-faint);
+  }
+  .empty-state p { margin: 0 0 4px; }
+
+  footer {
+    margin-top: 56px;
+    padding-top: 20px;
+    border-top: 1px solid var(--rule);
+    font-size: 0.78rem;
+    color: var(--text-faint);
+  }
+  footer code {
+    background: var(--bg-raised);
+    padding: 1px 5px;
+    border-radius: 3px;
+  }
+
+  @media (prefers-reduced-motion: reduce) {
+    * { transition: none !important; }
+  }
+</style>
+</head>
+<body>
+  <div class="wrap">
+    <header>
+      <p class="eyebrow">合唱譜・自動収集アーカイブ</p>
+      <h1>日本合唱曲データベース</h1>
+      <p class="lede">
+        全日本合唱連盟などの公開情報を<strong>自動巡回</strong>で収集し、
+        確信度の低い項目は<strong>朱印</strong>でマークしてコミュニティの校正（Pull Request）を待つ。
+        管理者の手作業に頼らず、日々少しずつ育っていくアーカイブです。
+      </p>
+    </header>
+
+    <div class="search-block">
+      <input
+        id="search"
+        class="search-input"
+        type="text"
+        placeholder="曲名・作曲者・作詞者で検索 — 例: 信長貴富 / 光る砂漠 / かつて私は"
+        autocomplete="off"
+      >
+      <div class="chips" id="chips" role="group" aria-label="声部で絞り込み"></div>
+    </div>
+
+    <div class="meta-row">
+      <span id="count-label">読み込み中…</span>
+      <span id="total-label"></span>
+    </div>
+
+    <ul class="results" id="results"></ul>
+
+    <footer>
+      データは <code>data/songs.json</code> から読み込まれています。
+      表記の誤りや抜けに気づいたら、Pull Request で直接修正できます
+      （朱印マークの付いた項目は特に校正を歓迎します）。
+    </footer>
+  </div>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/fuse.js/7.0.0/fuse.min.js"></script>
+<script>
+(async function () {
+  const els = {
+    search: document.getElementById('search'),
+    chips: document.getElementById('chips'),
+    results: document.getElementById('results'),
+    count: document.getElementById('count-label'),
+    total: document.getElementById('total-label'),
+  };
+
+  const VOICINGS = ['混声', '男声', '女声', '同声・児童'];
+  const activeVoicings = new Set();
+  const LANG_LABEL = {
+    la: 'ラテン語', de: 'ドイツ語', fr: 'フランス語', it: 'イタリア語',
+    en: '英語', sv: 'スウェーデン語', fi: 'フィンランド語', hu: 'マジャール語', ja: '日本語',
+  };
+
+  function renderChips() {
+    els.chips.innerHTML = '';
+    VOICINGS.forEach(v => {
+      const btn = document.createElement('button');
+      btn.type = 'button';
+      btn.className = 'chip' + (activeVoicings.has(v) ? ' active' : '');
+      btn.textContent = v;
+      btn.setAttribute('aria-pressed', activeVoicings.has(v) ? 'true' : 'false');
+      btn.addEventListener('click', () => {
+        if (activeVoicings.has(v)) activeVoicings.delete(v);
+        else activeVoicings.add(v);
+        renderChips();
+        update();
+      });
+      els.chips.appendChild(btn);
+    });
+  }
+
+  let songs = [];
+  let fuse = null;
+
+  try {
+    const res = await fetch('data/songs.json');
+    if (!res.ok) throw new Error('songs.json の取得に失敗: ' + res.status);
+    songs = await res.json();
+  } catch (err) {
+    els.count.textContent = '読み込みエラー';
+    els.results.innerHTML =
+      '<li class="empty-state"><p>データを読み込めませんでした。</p>' +
+      '<p style="font-size:0.8rem">' + (err.message || err) + '</p></li>';
+    return;
+  }
+
+  fuse = new Fuse(songs, {
+    keys: [
+      { name: 'title', weight: 0.4 },
+      { name: 'title_yomi', weight: 0.2 },
+      { name: 'composer', weight: 0.2 },
+      { name: 'lyricist', weight: 0.1 },
+      { name: 'collection', weight: 0.1 },
+    ],
+    threshold: 0.34,
+    ignoreLocation: true,
+  });
+
+  function escapeHtml(s) {
+    return (s ?? '').replace(/[&<>"']/g, c => ({
+      '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;',
+    }[c]));
+  }
+
+  function subtitle(song) {
+    const parts = [];
+    if (song.composer) parts.push('作曲: ' + escapeHtml(song.composer));
+    if (song.lyricist) parts.push('作詞: ' + escapeHtml(song.lyricist));
+    if (!song.lyricist && song.original_author) {
+      parts.push('原詩: ' + escapeHtml(song.original_author));
+    }
+    if (song.collection) parts.push('「' + escapeHtml(song.collection) + '」より');
+    if (song.language) parts.push(LANG_LABEL[song.language] || song.language);
+    if (song.accompaniment) parts.push(escapeHtml(song.accompaniment));
+    return parts.join('<span class="sep">·</span>');
+  }
+
+  function render(list) {
+    els.results.innerHTML = '';
+
+    if (list.length === 0) {
+      els.results.innerHTML =
+        '<li class="empty-state">' +
+        '<p>該当する曲が見つかりませんでした。</p>' +
+        '<p style="font-size:0.82rem">表記のゆれかもしれません。別のキーワードもお試しください。</p>' +
+        '</li>';
+      return;
+    }
+
+    const frag = document.createDocumentFragment();
+    list.forEach((song, i) => {
+      const li = document.createElement('li');
+      li.className = 'song';
+
+      const code = song.source_detail && song.source_detail.piece_code;
+      const stamp = document.createElement('div');
+      stamp.className = 'stamp';
+      stamp.style.setProperty('--tilt', (i % 2 === 0 ? -1.5 : 1.5) + 'deg');
+      stamp.textContent = code || '譜';
+
+      const body = document.createElement('div');
+      const voicing = song.voicing_category
+        ? '<span class="voicing">' + escapeHtml(song.voicing_category) + '</span><span class="sep">·</span>'
+        : '';
+      const reviewMark = song.needs_review
+        ? '<span class="review-mark" title="自動抽出の確信度が低く、校正待ちです（Pull Requestで修正できます）">朱</span>'
+        : '';
+
+      body.innerHTML =
+        '<p class="song-title">' + escapeHtml(song.title) + reviewMark + '</p>' +
+        '<p class="song-sub">' + voicing + subtitle(song) + '</p>';
+
+      li.appendChild(stamp);
+      li.appendChild(body);
+      frag.appendChild(li);
+    });
+    els.results.appendChild(frag);
+  }
+
+  function update() {
+    const q = els.search.value.trim();
+    let list = q ? fuse.search(q).map(r => r.item) : [...songs].sort(
+      (a, b) => (a.title || '').localeCompare(b.title || '', 'ja')
+    );
+
+    if (activeVoicings.size > 0) {
+      list = list.filter(s => activeVoicings.has(s.voicing_category));
+    }
+
+    els.count.textContent = q || activeVoicings.size
+      ? '検索結果: ' + list.length + '件'
+      : '全曲を表示中';
+    els.total.textContent = '収録曲数: ' + songs.length + '件';
+
+    render(list);
+  }
+
+  renderChips();
+  els.search.addEventListener('input', update);
+  update();
+})();
+</script>
+</body>
+</html>

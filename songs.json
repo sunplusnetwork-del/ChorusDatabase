@@ -1,0 +1,2594 @@
+[
+  {
+    "id": "jca-no53-F1",
+    "title": "Sub tuum praesidium（1545a）",
+    "title_yomi": null,
+    "composer": "Giovannni Pierluigi da Palestrina",
+    "lyricist": null,
+    "original_author": null,
+    "arranger": null,
+    "is_arrangement": false,
+    "collection": null,
+    "voicing_category": "女声",
+    "voicing_detail": null,
+    "language": "la",
+    "accompaniment": null,
+    "source_type": "コンクール課題曲",
+    "source_detail": {
+      "contest_year": 2025,
+      "contest_round": null,
+      "edition_no": 53,
+      "piece_code": "F1"
+    },
+    "publisher": "全日本合唱連盟",
+    "tags": [],
+    "notes": null,
+    "needs_review": true,
+    "confidence": 0.5,
+    "sources": [
+      {
+        "url": "https://jcanet.or.jp/Public/meikyoku/meikyoku-No53.htm",
+        "retrieved_at": "2026-06-22T00:00:00+00:00",
+        "raw_text": "Sub tuum praesidium（1545a） Giovannni Pierluigi da Palestrina曲"
+      }
+    ],
+    "created_at": "2026-06-22T00:00:00+00:00",
+    "updated_at": "2026-06-22T00:00:00+00:00"
+  },
+  {
+    "id": "jca-no53-F2",
+    "title": "Die Capelle Johann Ludwig Uhland",
+    "title_yomi": null,
+    "composer": "Robert Schumann",
+    "lyricist": null,
+    "original_author": null,
+    "arranger": null,
+    "is_arrangement": false,
+    "collection": null,
+    "voicing_category": "女声",
+    "voicing_detail": null,
+    "language": "de",
+    "accompaniment": null,
+    "source_type": "コンクール課題曲",
+    "source_detail": {
+      "contest_year": 2025,
+      "contest_round": null,
+      "edition_no": 53,
+      "piece_code": "F2"
+    },
+    "publisher": "全日本合唱連盟",
+    "tags": [],
+    "notes": null,
+    "needs_review": true,
+    "confidence": 0.4,
+    "sources": [
+      {
+        "url": "https://jcanet.or.jp/Public/meikyoku/meikyoku-No53.htm",
+        "retrieved_at": "2026-06-22T00:00:00+00:00",
+        "raw_text": "Die Capelle Johann Ludwig Uhland詩／Robert Schumann曲"
+      }
+    ],
+    "created_at": "2026-06-22T00:00:00+00:00",
+    "updated_at": "2026-06-22T00:00:00+00:00"
+  },
+  {
+    "id": "jca-no53-F3",
+    "title": "T",
+    "title_yomi": null,
+    "composer": "間宮芳生",
+    "lyricist": "草野心平",
+    "original_author": null,
+    "arranger": null,
+    "is_arrangement": false,
+    "collection": "Motet Vernale",
+    "voicing_category": "女声",
+    "voicing_detail": null,
+    "language": null,
+    "accompaniment": null,
+    "source_type": "コンクール課題曲",
+    "source_detail": {
+      "contest_year": 2025,
+      "contest_round": null,
+      "edition_no": 53,
+      "piece_code": "F3"
+    },
+    "publisher": "全日本合唱連盟",
+    "tags": [],
+    "notes": null,
+    "needs_review": false,
+    "confidence": 0.95,
+    "sources": [
+      {
+        "url": "https://jcanet.or.jp/Public/meikyoku/meikyoku-No53.htm",
+        "retrieved_at": "2026-06-22T00:00:00+00:00",
+        "raw_text": "T（「Motet Vernale」から） 草野心平詩／間宮芳生曲"
+      }
+    ],
+    "created_at": "2026-06-22T00:00:00+00:00",
+    "updated_at": "2026-06-22T00:00:00+00:00"
+  },
+  {
+    "id": "jca-no53-F4",
+    "title": "かつて私は信じていた",
+    "title_yomi": null,
+    "composer": "平木悟",
+    "lyricist": "菅原敏",
+    "original_author": "Heinrich Heine",
+    "arranger": null,
+    "is_arrangement": false,
+    "collection": "世界恋愛詩集",
+    "voicing_category": "女声",
+    "voicing_detail": null,
+    "language": null,
+    "accompaniment": "ピアノ伴奏",
+    "source_type": "コンクール課題曲",
+    "source_detail": {
+      "contest_year": 2025,
+      "contest_round": null,
+      "edition_no": 53,
+      "piece_code": "F4"
+    },
+    "publisher": "全日本合唱連盟",
+    "tags": [],
+    "notes": null,
+    "needs_review": false,
+    "confidence": 0.95,
+    "sources": [
+      {
+        "url": "https://jcanet.or.jp/Public/meikyoku/meikyoku-No53.htm",
+        "retrieved_at": "2026-06-22T00:00:00+00:00",
+        "raw_text": "かつて私は信じていた（「世界恋愛詩集」から） 菅原敏詩（原文：Heinrich Heine）／平木悟曲"
+      }
+    ],
+    "created_at": "2026-06-22T00:00:00+00:00",
+    "updated_at": "2026-06-22T00:00:00+00:00"
+  },
+  {
+    "id": "jca-no53-G1",
+    "title": "Dies sanctificatus（1563）",
+    "title_yomi": null,
+    "composer": "Giovannni Pierluigi da Palestrina",
+    "lyricist": null,
+    "original_author": null,
+    "arranger": null,
+    "is_arrangement": false,
+    "collection": null,
+    "voicing_category": "混声",
+    "voicing_detail": null,
+    "language": "la",
+    "accompaniment": null,
+    "source_type": "コンクール課題曲",
+    "source_detail": {
+      "contest_year": 2025,
+      "contest_round": null,
+      "edition_no": 53,
+      "piece_code": "G1"
+    },
+    "publisher": "全日本合唱連盟",
+    "tags": [],
+    "notes": null,
+    "needs_review": true,
+    "confidence": 0.5,
+    "sources": [
+      {
+        "url": "https://jcanet.or.jp/Public/meikyoku/meikyoku-No53.htm",
+        "retrieved_at": "2026-06-22T00:00:00+00:00",
+        "raw_text": "Dies sanctificatus（1563） Giovannni Pierluigi da Palestrina曲"
+      }
+    ],
+    "created_at": "2026-06-22T00:00:00+00:00",
+    "updated_at": "2026-06-22T00:00:00+00:00"
+  },
+  {
+    "id": "jca-no53-G2",
+    "title": "Das edle",
+    "title_yomi": null,
+    "composer": "Anton Bruckner",
+    "lyricist": "Herz Ernst Marinelli",
+    "original_author": null,
+    "arranger": null,
+    "is_arrangement": false,
+    "collection": null,
+    "voicing_category": "混声",
+    "voicing_detail": null,
+    "language": "de",
+    "accompaniment": null,
+    "source_type": "コンクール課題曲",
+    "source_detail": {
+      "contest_year": 2025,
+      "contest_round": null,
+      "edition_no": 53,
+      "piece_code": "G2"
+    },
+    "publisher": "全日本合唱連盟",
+    "tags": [],
+    "notes": null,
+    "needs_review": true,
+    "confidence": 0.5,
+    "sources": [
+      {
+        "url": "https://jcanet.or.jp/Public/meikyoku/meikyoku-No53.htm",
+        "retrieved_at": "2026-06-22T00:00:00+00:00",
+        "raw_text": "Das edle Herz Ernst Marinelli詩／Anton Bruckner曲"
+      }
+    ],
+    "created_at": "2026-06-22T00:00:00+00:00",
+    "updated_at": "2026-06-22T00:00:00+00:00"
+  },
+  {
+    "id": "jca-no53-G3",
+    "title": "秋の午後",
+    "title_yomi": null,
+    "composer": "萩原英彦",
+    "lyricist": "矢澤宰",
+    "original_author": null,
+    "arranger": null,
+    "is_arrangement": false,
+    "collection": "光る砂漠",
+    "voicing_category": "混声",
+    "voicing_detail": null,
+    "language": null,
+    "accompaniment": "ピアノ伴奏",
+    "source_type": "コンクール課題曲",
+    "source_detail": {
+      "contest_year": 2025,
+      "contest_round": null,
+      "edition_no": 53,
+      "piece_code": "G3"
+    },
+    "publisher": "全日本合唱連盟",
+    "tags": [],
+    "notes": null,
+    "needs_review": false,
+    "confidence": 0.95,
+    "sources": [
+      {
+        "url": "https://jcanet.or.jp/Public/meikyoku/meikyoku-No53.htm",
+        "retrieved_at": "2026-06-22T00:00:00+00:00",
+        "raw_text": "秋の午後（「光る砂漠」から） 矢澤宰詩／萩原英彦曲"
+      }
+    ],
+    "created_at": "2026-06-22T00:00:00+00:00",
+    "updated_at": "2026-06-22T00:00:00+00:00"
+  },
+  {
+    "id": "jca-no53-G4",
+    "title": "不思議",
+    "title_yomi": null,
+    "composer": "石若雅弥",
+    "lyricist": "金子みすゞ",
+    "original_author": null,
+    "arranger": null,
+    "is_arrangement": false,
+    "collection": "不思議",
+    "voicing_category": "混声",
+    "voicing_detail": null,
+    "language": null,
+    "accompaniment": null,
+    "source_type": "コンクール課題曲",
+    "source_detail": {
+      "contest_year": 2025,
+      "contest_round": null,
+      "edition_no": 53,
+      "piece_code": "G4"
+    },
+    "publisher": "全日本合唱連盟",
+    "tags": [],
+    "notes": null,
+    "needs_review": false,
+    "confidence": 0.95,
+    "sources": [
+      {
+        "url": "https://jcanet.or.jp/Public/meikyoku/meikyoku-No53.htm",
+        "retrieved_at": "2026-06-22T00:00:00+00:00",
+        "raw_text": "不思議（「不思議」から） 金子みすゞ詩／石若雅弥曲"
+      }
+    ],
+    "created_at": "2026-06-22T00:00:00+00:00",
+    "updated_at": "2026-06-22T00:00:00+00:00"
+  },
+  {
+    "id": "jca-no53-M1",
+    "title": "Ascendens Christus in altum",
+    "title_yomi": null,
+    "composer": "Giovannni Pierluigi da Palestrina",
+    "lyricist": null,
+    "original_author": null,
+    "arranger": null,
+    "is_arrangement": false,
+    "collection": null,
+    "voicing_category": "男声",
+    "voicing_detail": null,
+    "language": "la",
+    "accompaniment": null,
+    "source_type": "コンクール課題曲",
+    "source_detail": {
+      "contest_year": 2025,
+      "contest_round": null,
+      "edition_no": 53,
+      "piece_code": "M1"
+    },
+    "publisher": "全日本合唱連盟",
+    "tags": [],
+    "notes": null,
+    "needs_review": true,
+    "confidence": 0.5,
+    "sources": [
+      {
+        "url": "https://jcanet.or.jp/Public/meikyoku/meikyoku-No53.htm",
+        "retrieved_at": "2026-06-22T00:00:00+00:00",
+        "raw_text": "Ascendens Christus in altum Giovannni Pierluigi da Palestrina曲"
+      }
+    ],
+    "created_at": "2026-06-22T00:00:00+00:00",
+    "updated_at": "2026-06-22T00:00:00+00:00"
+  },
+  {
+    "id": "jca-no53-M2",
+    "title": "Geistesgruß Johann Wolfgang von Goethe",
+    "title_yomi": null,
+    "composer": "Hugo Wolf",
+    "lyricist": null,
+    "original_author": null,
+    "arranger": null,
+    "is_arrangement": false,
+    "collection": "Drei Lieder",
+    "voicing_category": "男声",
+    "voicing_detail": null,
+    "language": "de",
+    "accompaniment": null,
+    "source_type": "コンクール課題曲",
+    "source_detail": {
+      "contest_year": 2025,
+      "contest_round": null,
+      "edition_no": 53,
+      "piece_code": "M2"
+    },
+    "publisher": "全日本合唱連盟",
+    "tags": [],
+    "notes": null,
+    "needs_review": true,
+    "confidence": 0.4,
+    "sources": [
+      {
+        "url": "https://jcanet.or.jp/Public/meikyoku/meikyoku-No53.htm",
+        "retrieved_at": "2026-06-22T00:00:00+00:00",
+        "raw_text": "Geistesgruß（「Drei Lieder」から） Johann Wolfgang von Goethe詩／Hugo Wolf曲"
+      }
+    ],
+    "created_at": "2026-06-22T00:00:00+00:00",
+    "updated_at": "2026-06-22T00:00:00+00:00"
+  },
+  {
+    "id": "jca-no53-M3",
+    "title": "彼岸花",
+    "title_yomi": null,
+    "composer": "多田武彦",
+    "lyricist": "北原白秋",
+    "original_author": null,
+    "arranger": null,
+    "is_arrangement": false,
+    "collection": "雪と花火",
+    "voicing_category": "男声",
+    "voicing_detail": null,
+    "language": null,
+    "accompaniment": null,
+    "source_type": "コンクール課題曲",
+    "source_detail": {
+      "contest_year": 2025,
+      "contest_round": null,
+      "edition_no": 53,
+      "piece_code": "M3"
+    },
+    "publisher": "全日本合唱連盟",
+    "tags": [],
+    "notes": null,
+    "needs_review": false,
+    "confidence": 0.95,
+    "sources": [
+      {
+        "url": "https://jcanet.or.jp/Public/meikyoku/meikyoku-No53.htm",
+        "retrieved_at": "2026-06-22T00:00:00+00:00",
+        "raw_text": "彼岸花（「雪と花火」から） 北原白秋詩／多田武彦曲"
+      }
+    ],
+    "created_at": "2026-06-22T00:00:00+00:00",
+    "updated_at": "2026-06-22T00:00:00+00:00"
+  },
+  {
+    "id": "jca-no53-M4",
+    "title": "いきよう",
+    "title_yomi": null,
+    "composer": "相澤直人",
+    "lyricist": "きむらえいり",
+    "original_author": null,
+    "arranger": null,
+    "is_arrangement": false,
+    "collection": "しずかなる星へ",
+    "voicing_category": "男声",
+    "voicing_detail": null,
+    "language": null,
+    "accompaniment": null,
+    "source_type": "コンクール課題曲",
+    "source_detail": {
+      "contest_year": 2025,
+      "contest_round": null,
+      "edition_no": 53,
+      "piece_code": "M4"
+    },
+    "publisher": "全日本合唱連盟",
+    "tags": [],
+    "notes": null,
+    "needs_review": false,
+    "confidence": 0.95,
+    "sources": [
+      {
+        "url": "https://jcanet.or.jp/Public/meikyoku/meikyoku-No53.htm",
+        "retrieved_at": "2026-06-22T00:00:00+00:00",
+        "raw_text": "いきよう（「しずかなる星へ」から） きむらえいり詩／相澤直人曲"
+      }
+    ],
+    "created_at": "2026-06-22T00:00:00+00:00",
+    "updated_at": "2026-06-22T00:00:00+00:00"
+  },
+  {
+    "id": "jca-no52-F1",
+    "title": "O vos omnes",
+    "title_yomi": null,
+    "composer": "Thomás Luis de Victoria",
+    "lyricist": null,
+    "original_author": null,
+    "arranger": null,
+    "is_arrangement": false,
+    "collection": null,
+    "voicing_category": "女声",
+    "voicing_detail": null,
+    "language": "la",
+    "accompaniment": null,
+    "source_type": "コンクール課題曲",
+    "source_detail": {
+      "contest_year": 2023,
+      "contest_round": null,
+      "edition_no": 52,
+      "piece_code": "F1"
+    },
+    "publisher": "全日本合唱連盟",
+    "tags": [],
+    "notes": null,
+    "needs_review": false,
+    "confidence": 1.0,
+    "sources": [
+      {
+        "url": "https://jcanet.or.jp/Public/meikyoku/meikyoku-No52.htm",
+        "retrieved_at": "2026-06-22T00:00:00+00:00",
+        "raw_text": "O vos omnes／Thomás Luis de Victoria 曲"
+      }
+    ],
+    "created_at": "2026-06-22T00:00:00+00:00",
+    "updated_at": "2026-06-22T00:00:00+00:00"
+  },
+  {
+    "id": "jca-no52-F2",
+    "title": "This Train Is Bound for Glory",
+    "title_yomi": null,
+    "composer": "John C. Phillips",
+    "lyricist": null,
+    "original_author": null,
+    "arranger": "John C. Phillips",
+    "is_arrangement": true,
+    "collection": null,
+    "voicing_category": "女声",
+    "voicing_detail": null,
+    "language": "en",
+    "accompaniment": null,
+    "source_type": "コンクール課題曲",
+    "source_detail": {
+      "contest_year": 2023,
+      "contest_round": null,
+      "edition_no": 52,
+      "piece_code": "F2"
+    },
+    "publisher": "全日本合唱連盟",
+    "tags": [],
+    "notes": null,
+    "needs_review": false,
+    "confidence": 1.0,
+    "sources": [
+      {
+        "url": "https://jcanet.or.jp/Public/meikyoku/meikyoku-No52.htm",
+        "retrieved_at": "2026-06-22T00:00:00+00:00",
+        "raw_text": "This Train Is Bound for Glory／John C. Phillips 編曲"
+      }
+    ],
+    "created_at": "2026-06-22T00:00:00+00:00",
+    "updated_at": "2026-06-22T00:00:00+00:00"
+  },
+  {
+    "id": "jca-no52-F3",
+    "title": "ねむの花",
+    "title_yomi": null,
+    "composer": "中田喜直",
+    "lyricist": "壺田花子",
+    "original_author": null,
+    "arranger": null,
+    "is_arrangement": false,
+    "collection": null,
+    "voicing_category": "女声",
+    "voicing_detail": null,
+    "language": null,
+    "accompaniment": "ピアノ伴奏",
+    "source_type": "コンクール課題曲",
+    "source_detail": {
+      "contest_year": 2023,
+      "contest_round": null,
+      "edition_no": 52,
+      "piece_code": "F3"
+    },
+    "publisher": "全日本合唱連盟",
+    "tags": [],
+    "notes": null,
+    "needs_review": false,
+    "confidence": 1.0,
+    "sources": [
+      {
+        "url": "https://jcanet.or.jp/Public/meikyoku/meikyoku-No52.htm",
+        "retrieved_at": "2026-06-22T00:00:00+00:00",
+        "raw_text": "ねむの花／壺田花子 詩／中田喜直 曲"
+      }
+    ],
+    "created_at": "2026-06-22T00:00:00+00:00",
+    "updated_at": "2026-06-22T00:00:00+00:00"
+  },
+  {
+    "id": "jca-no52-F4",
+    "title": "子守唄",
+    "title_yomi": null,
+    "composer": "三宅悠太",
+    "lyricist": "立原道造",
+    "original_author": null,
+    "arranger": null,
+    "is_arrangement": false,
+    "collection": null,
+    "voicing_category": "女声",
+    "voicing_detail": null,
+    "language": null,
+    "accompaniment": null,
+    "source_type": "コンクール課題曲",
+    "source_detail": {
+      "contest_year": 2023,
+      "contest_round": null,
+      "edition_no": 52,
+      "piece_code": "F4"
+    },
+    "publisher": "全日本合唱連盟",
+    "tags": [],
+    "notes": null,
+    "needs_review": false,
+    "confidence": 1.0,
+    "sources": [
+      {
+        "url": "https://jcanet.or.jp/Public/meikyoku/meikyoku-No52.htm",
+        "retrieved_at": "2026-06-22T00:00:00+00:00",
+        "raw_text": "子守唄／立原道造 詩／三宅悠太 曲"
+      }
+    ],
+    "created_at": "2026-06-22T00:00:00+00:00",
+    "updated_at": "2026-06-22T00:00:00+00:00"
+  },
+  {
+    "id": "jca-no52-G1",
+    "title": "Ave Maria",
+    "title_yomi": null,
+    "composer": "Josquin des Prez",
+    "lyricist": null,
+    "original_author": null,
+    "arranger": null,
+    "is_arrangement": false,
+    "collection": null,
+    "voicing_category": "混声",
+    "voicing_detail": null,
+    "language": "la",
+    "accompaniment": null,
+    "source_type": "コンクール課題曲",
+    "source_detail": {
+      "contest_year": 2023,
+      "contest_round": null,
+      "edition_no": 52,
+      "piece_code": "G1"
+    },
+    "publisher": "全日本合唱連盟",
+    "tags": [],
+    "notes": null,
+    "needs_review": false,
+    "confidence": 1.0,
+    "sources": [
+      {
+        "url": "https://jcanet.or.jp/Public/meikyoku/meikyoku-No52.htm",
+        "retrieved_at": "2026-06-22T00:00:00+00:00",
+        "raw_text": "Ave Maria／Josquin des Prez 曲"
+      }
+    ],
+    "created_at": "2026-06-22T00:00:00+00:00",
+    "updated_at": "2026-06-22T00:00:00+00:00"
+  },
+  {
+    "id": "jca-no52-G2",
+    "title": "Deep River",
+    "title_yomi": null,
+    "composer": "Brian Trant",
+    "lyricist": null,
+    "original_author": null,
+    "arranger": "Brian Trant",
+    "is_arrangement": true,
+    "collection": null,
+    "voicing_category": "混声",
+    "voicing_detail": null,
+    "language": "en",
+    "accompaniment": null,
+    "source_type": "コンクール課題曲",
+    "source_detail": {
+      "contest_year": 2023,
+      "contest_round": null,
+      "edition_no": 52,
+      "piece_code": "G2"
+    },
+    "publisher": "全日本合唱連盟",
+    "tags": [],
+    "notes": null,
+    "needs_review": false,
+    "confidence": 1.0,
+    "sources": [
+      {
+        "url": "https://jcanet.or.jp/Public/meikyoku/meikyoku-No52.htm",
+        "retrieved_at": "2026-06-22T00:00:00+00:00",
+        "raw_text": "Deep River／Brian Trant 編曲"
+      }
+    ],
+    "created_at": "2026-06-22T00:00:00+00:00",
+    "updated_at": "2026-06-22T00:00:00+00:00"
+  },
+  {
+    "id": "jca-no52-G3",
+    "title": "七里浜",
+    "title_yomi": null,
+    "composer": "團 伊玖磨",
+    "lyricist": "西田幾多郎",
+    "original_author": null,
+    "arranger": null,
+    "is_arrangement": false,
+    "collection": "二つの碑銘",
+    "voicing_category": "混声",
+    "voicing_detail": null,
+    "language": null,
+    "accompaniment": null,
+    "source_type": "コンクール課題曲",
+    "source_detail": {
+      "contest_year": 2023,
+      "contest_round": null,
+      "edition_no": 52,
+      "piece_code": "G3"
+    },
+    "publisher": "全日本合唱連盟",
+    "tags": [],
+    "notes": null,
+    "needs_review": false,
+    "confidence": 1.0,
+    "sources": [
+      {
+        "url": "https://jcanet.or.jp/Public/meikyoku/meikyoku-No52.htm",
+        "retrieved_at": "2026-06-22T00:00:00+00:00",
+        "raw_text": "七里浜（「二つの碑銘」から）／西田幾多郎 詩／團 伊玖磨 曲"
+      }
+    ],
+    "created_at": "2026-06-22T00:00:00+00:00",
+    "updated_at": "2026-06-22T00:00:00+00:00"
+  },
+  {
+    "id": "jca-no52-G4",
+    "title": "この船の行く先で",
+    "title_yomi": null,
+    "composer": "村本晋也",
+    "lyricist": "村本晋也",
+    "original_author": null,
+    "arranger": null,
+    "is_arrangement": false,
+    "collection": "月の世界へ",
+    "voicing_category": "混声",
+    "voicing_detail": null,
+    "language": null,
+    "accompaniment": "ピアノ伴奏",
+    "source_type": "コンクール課題曲",
+    "source_detail": {
+      "contest_year": 2023,
+      "contest_round": null,
+      "edition_no": 52,
+      "piece_code": "G4"
+    },
+    "publisher": "全日本合唱連盟",
+    "tags": [],
+    "notes": null,
+    "needs_review": false,
+    "confidence": 1.0,
+    "sources": [
+      {
+        "url": "https://jcanet.or.jp/Public/meikyoku/meikyoku-No52.htm",
+        "retrieved_at": "2026-06-22T00:00:00+00:00",
+        "raw_text": "この船の行く先で（「月の世界へ」から）／村本晋也 詩曲"
+      }
+    ],
+    "created_at": "2026-06-22T00:00:00+00:00",
+    "updated_at": "2026-06-22T00:00:00+00:00"
+  },
+  {
+    "id": "jca-no52-M1",
+    "title": "Matona mia cara",
+    "title_yomi": null,
+    "composer": "Orlande de Lassus",
+    "lyricist": null,
+    "original_author": null,
+    "arranger": null,
+    "is_arrangement": false,
+    "collection": null,
+    "voicing_category": "男声",
+    "voicing_detail": null,
+    "language": "it",
+    "accompaniment": null,
+    "source_type": "コンクール課題曲",
+    "source_detail": {
+      "contest_year": 2023,
+      "contest_round": null,
+      "edition_no": 52,
+      "piece_code": "M1"
+    },
+    "publisher": "全日本合唱連盟",
+    "tags": [],
+    "notes": null,
+    "needs_review": false,
+    "confidence": 1.0,
+    "sources": [
+      {
+        "url": "https://jcanet.or.jp/Public/meikyoku/meikyoku-No52.htm",
+        "retrieved_at": "2026-06-22T00:00:00+00:00",
+        "raw_text": "Matona mia cara／Orlande de Lassus 曲"
+      }
+    ],
+    "created_at": "2026-06-22T00:00:00+00:00",
+    "updated_at": "2026-06-22T00:00:00+00:00"
+  },
+  {
+    "id": "jca-no52-M2",
+    "title": "The Battle of Jericho",
+    "title_yomi": null,
+    "composer": "Marshall Bartholomew",
+    "lyricist": null,
+    "original_author": null,
+    "arranger": "Marshall Bartholomew",
+    "is_arrangement": true,
+    "collection": null,
+    "voicing_category": "男声",
+    "voicing_detail": null,
+    "language": "en",
+    "accompaniment": null,
+    "source_type": "コンクール課題曲",
+    "source_detail": {
+      "contest_year": 2023,
+      "contest_round": null,
+      "edition_no": 52,
+      "piece_code": "M2"
+    },
+    "publisher": "全日本合唱連盟",
+    "tags": [],
+    "notes": null,
+    "needs_review": false,
+    "confidence": 1.0,
+    "sources": [
+      {
+        "url": "https://jcanet.or.jp/Public/meikyoku/meikyoku-No52.htm",
+        "retrieved_at": "2026-06-22T00:00:00+00:00",
+        "raw_text": "The Battle of Jericho／Marshall Bartholomew 編曲"
+      }
+    ],
+    "created_at": "2026-06-22T00:00:00+00:00",
+    "updated_at": "2026-06-22T00:00:00+00:00"
+  },
+  {
+    "id": "jca-no52-M3",
+    "title": "秋の歌",
+    "title_yomi": null,
+    "composer": "南 弘明",
+    "lyricist": "堀口大學",
+    "original_author": "Paul Verlaine",
+    "arranger": null,
+    "is_arrangement": false,
+    "collection": "月下の一群 第1集",
+    "voicing_category": "男声",
+    "voicing_detail": null,
+    "language": null,
+    "accompaniment": "ピアノ伴奏",
+    "source_type": "コンクール課題曲",
+    "source_detail": {
+      "contest_year": 2023,
+      "contest_round": null,
+      "edition_no": 52,
+      "piece_code": "M3"
+    },
+    "publisher": "全日本合唱連盟",
+    "tags": [],
+    "notes": null,
+    "needs_review": false,
+    "confidence": 1.0,
+    "sources": [
+      {
+        "url": "https://jcanet.or.jp/Public/meikyoku/meikyoku-No52.htm",
+        "retrieved_at": "2026-06-22T00:00:00+00:00",
+        "raw_text": "秋の歌（「月下の一群 第1集」から）／Paul Verlaine 詩／堀口大學 訳詩／南 弘明 曲"
+      }
+    ],
+    "created_at": "2026-06-22T00:00:00+00:00",
+    "updated_at": "2026-06-22T00:00:00+00:00"
+  },
+  {
+    "id": "jca-no52-M4",
+    "title": "陥星",
+    "title_yomi": null,
+    "composer": "松本 望",
+    "lyricist": "高見 順",
+    "original_author": null,
+    "arranger": null,
+    "is_arrangement": false,
+    "collection": "瞬間の輝き",
+    "voicing_category": "男声",
+    "voicing_detail": null,
+    "language": null,
+    "accompaniment": null,
+    "source_type": "コンクール課題曲",
+    "source_detail": {
+      "contest_year": 2023,
+      "contest_round": null,
+      "edition_no": 52,
+      "piece_code": "M4"
+    },
+    "publisher": "全日本合唱連盟",
+    "tags": [],
+    "notes": null,
+    "needs_review": false,
+    "confidence": 1.0,
+    "sources": [
+      {
+        "url": "https://jcanet.or.jp/Public/meikyoku/meikyoku-No52.htm",
+        "retrieved_at": "2026-06-22T00:00:00+00:00",
+        "raw_text": "陥星（「瞬間の輝き」から）／高見 順 詩／松本 望 曲"
+      }
+    ],
+    "created_at": "2026-06-22T00:00:00+00:00",
+    "updated_at": "2026-06-22T00:00:00+00:00"
+  },
+  {
+    "id": "jca-no51-F1",
+    "title": "Salve Regina",
+    "title_yomi": null,
+    "composer": "Giovanni Pierluigi da Palestrina",
+    "lyricist": null,
+    "original_author": null,
+    "arranger": null,
+    "is_arrangement": false,
+    "collection": null,
+    "voicing_category": "女声",
+    "voicing_detail": null,
+    "language": "la",
+    "accompaniment": null,
+    "source_type": "コンクール課題曲",
+    "source_detail": {
+      "contest_year": 2022,
+      "contest_round": null,
+      "edition_no": 51,
+      "piece_code": "F1"
+    },
+    "publisher": "全日本合唱連盟",
+    "tags": [],
+    "notes": null,
+    "needs_review": false,
+    "confidence": 1.0,
+    "sources": [
+      {
+        "url": "https://jcanet.or.jp/Public/meikyoku/meikyoku-No51.htm",
+        "retrieved_at": "2026-06-22T00:00:00+00:00",
+        "raw_text": "Salve Regina／Giovanni Pierluigi da Palestrina 曲"
+      }
+    ],
+    "created_at": "2026-06-22T00:00:00+00:00",
+    "updated_at": "2026-06-22T00:00:00+00:00"
+  },
+  {
+    "id": "jca-no51-F2",
+    "title": "Sanctus",
+    "title_yomi": null,
+    "composer": "André Caplet",
+    "lyricist": null,
+    "original_author": null,
+    "arranger": null,
+    "is_arrangement": false,
+    "collection": "Messe à trois voix",
+    "voicing_category": "女声",
+    "voicing_detail": null,
+    "language": "la",
+    "accompaniment": null,
+    "source_type": "コンクール課題曲",
+    "source_detail": {
+      "contest_year": 2022,
+      "contest_round": null,
+      "edition_no": 51,
+      "piece_code": "F2"
+    },
+    "publisher": "全日本合唱連盟",
+    "tags": [],
+    "notes": null,
+    "needs_review": false,
+    "confidence": 1.0,
+    "sources": [
+      {
+        "url": "https://jcanet.or.jp/Public/meikyoku/meikyoku-No51.htm",
+        "retrieved_at": "2026-06-22T00:00:00+00:00",
+        "raw_text": "Sanctus（「Messe à trois voix」から）／André Caplet 曲"
+      }
+    ],
+    "created_at": "2026-06-22T00:00:00+00:00",
+    "updated_at": "2026-06-22T00:00:00+00:00"
+  },
+  {
+    "id": "jca-no51-F3",
+    "title": "街路灯",
+    "title_yomi": null,
+    "composer": "三善 晃",
+    "lyricist": "北岡淳子",
+    "original_author": null,
+    "arranger": null,
+    "is_arrangement": false,
+    "collection": "街路灯",
+    "voicing_category": "女声",
+    "voicing_detail": null,
+    "language": null,
+    "accompaniment": "ピアノ伴奏",
+    "source_type": "コンクール課題曲",
+    "source_detail": {
+      "contest_year": 2022,
+      "contest_round": null,
+      "edition_no": 51,
+      "piece_code": "F3"
+    },
+    "publisher": "全日本合唱連盟",
+    "tags": [],
+    "notes": null,
+    "needs_review": false,
+    "confidence": 1.0,
+    "sources": [
+      {
+        "url": "https://jcanet.or.jp/Public/meikyoku/meikyoku-No51.htm",
+        "retrieved_at": "2026-06-22T00:00:00+00:00",
+        "raw_text": "街路灯（「街路灯」から）／北岡淳子 詩／三善 晃 曲"
+      }
+    ],
+    "created_at": "2026-06-22T00:00:00+00:00",
+    "updated_at": "2026-06-22T00:00:00+00:00"
+  },
+  {
+    "id": "jca-no51-F4",
+    "title": "ねんね根来の",
+    "title_yomi": null,
+    "composer": "松下 耕",
+    "lyricist": null,
+    "original_author": null,
+    "arranger": null,
+    "is_arrangement": false,
+    "collection": "紀の国のこどもうた1",
+    "voicing_category": "女声",
+    "voicing_detail": null,
+    "language": null,
+    "accompaniment": null,
+    "source_type": "コンクール課題曲",
+    "source_detail": {
+      "contest_year": 2022,
+      "contest_round": null,
+      "edition_no": 51,
+      "piece_code": "F4"
+    },
+    "publisher": "全日本合唱連盟",
+    "tags": [],
+    "notes": null,
+    "needs_review": false,
+    "confidence": 1.0,
+    "sources": [
+      {
+        "url": "https://jcanet.or.jp/Public/meikyoku/meikyoku-No51.htm",
+        "retrieved_at": "2026-06-22T00:00:00+00:00",
+        "raw_text": "ねんね根来の(「紀の国のこどもうた1」から) ／松下 耕 曲"
+      }
+    ],
+    "created_at": "2026-06-22T00:00:00+00:00",
+    "updated_at": "2026-06-22T00:00:00+00:00"
+  },
+  {
+    "id": "jca-no51-G1",
+    "title": "Wenn mein Stündlein vorhanden ist",
+    "title_yomi": null,
+    "composer": "Hans Leo Hassler",
+    "lyricist": null,
+    "original_author": null,
+    "arranger": null,
+    "is_arrangement": false,
+    "collection": "Psalmen und Christliche Gesäng",
+    "voicing_category": "混声",
+    "voicing_detail": null,
+    "language": "de",
+    "accompaniment": null,
+    "source_type": "コンクール課題曲",
+    "source_detail": {
+      "contest_year": 2022,
+      "contest_round": null,
+      "edition_no": 51,
+      "piece_code": "G1"
+    },
+    "publisher": "全日本合唱連盟",
+    "tags": [],
+    "notes": null,
+    "needs_review": false,
+    "confidence": 1.0,
+    "sources": [
+      {
+        "url": "https://jcanet.or.jp/Public/meikyoku/meikyoku-No51.htm",
+        "retrieved_at": "2026-06-22T00:00:00+00:00",
+        "raw_text": "Wenn mein Stündlein vorhanden ist（「Psalmen und Christliche Gesäng」から）／Hans Leo Hassler 曲"
+      }
+    ],
+    "created_at": "2026-06-22T00:00:00+00:00",
+    "updated_at": "2026-06-22T00:00:00+00:00"
+  },
+  {
+    "id": "jca-no51-G2",
+    "title": "Les fleurs et les arbres（「Deux choeurs」から",
+    "title_yomi": null,
+    "composer": "Camille Saint-Saëns",
+    "lyricist": "Camille Saint-Saëns",
+    "original_author": null,
+    "arranger": null,
+    "is_arrangement": false,
+    "collection": null,
+    "voicing_category": "混声",
+    "voicing_detail": null,
+    "language": "fr",
+    "accompaniment": null,
+    "source_type": "コンクール課題曲",
+    "source_detail": {
+      "contest_year": 2022,
+      "contest_round": null,
+      "edition_no": 51,
+      "piece_code": "G2"
+    },
+    "publisher": "全日本合唱連盟",
+    "tags": [],
+    "notes": null,
+    "needs_review": false,
+    "confidence": 1.0,
+    "sources": [
+      {
+        "url": "https://jcanet.or.jp/Public/meikyoku/meikyoku-No51.htm",
+        "retrieved_at": "2026-06-22T00:00:00+00:00",
+        "raw_text": "Les fleurs et les arbres（「Deux choeurs」から／Camille Saint-Saëns 詩曲"
+      }
+    ],
+    "created_at": "2026-06-22T00:00:00+00:00",
+    "updated_at": "2026-06-22T00:00:00+00:00"
+  },
+  {
+    "id": "jca-no51-G3",
+    "title": "水上",
+    "title_yomi": null,
+    "composer": "柴田南雄",
+    "lyricist": "北原白秋",
+    "original_author": null,
+    "arranger": null,
+    "is_arrangement": false,
+    "collection": "三つの無伴奏混声合唱曲",
+    "voicing_category": "混声",
+    "voicing_detail": null,
+    "language": null,
+    "accompaniment": null,
+    "source_type": "コンクール課題曲",
+    "source_detail": {
+      "contest_year": 2022,
+      "contest_round": null,
+      "edition_no": 51,
+      "piece_code": "G3"
+    },
+    "publisher": "全日本合唱連盟",
+    "tags": [],
+    "notes": null,
+    "needs_review": false,
+    "confidence": 1.0,
+    "sources": [
+      {
+        "url": "https://jcanet.or.jp/Public/meikyoku/meikyoku-No51.htm",
+        "retrieved_at": "2026-06-22T00:00:00+00:00",
+        "raw_text": "水上（「三つの無伴奏混声合唱曲」から）／北原白秋 詩／柴田南雄 曲"
+      }
+    ],
+    "created_at": "2026-06-22T00:00:00+00:00",
+    "updated_at": "2026-06-22T00:00:00+00:00"
+  },
+  {
+    "id": "jca-no51-G4",
+    "title": "T―空と涙について―",
+    "title_yomi": null,
+    "composer": "田畠佑一",
+    "lyricist": null,
+    "original_author": null,
+    "arranger": null,
+    "is_arrangement": false,
+    "collection": "恋の色彩",
+    "voicing_category": "混声",
+    "voicing_detail": null,
+    "language": null,
+    "accompaniment": "ピアノ伴奏",
+    "source_type": "コンクール課題曲",
+    "source_detail": {
+      "contest_year": 2022,
+      "contest_round": null,
+      "edition_no": 51,
+      "piece_code": "G4"
+    },
+    "publisher": "全日本合唱連盟",
+    "tags": [],
+    "notes": null,
+    "needs_review": true,
+    "confidence": 0.5,
+    "sources": [
+      {
+        "url": "https://jcanet.or.jp/Public/meikyoku/meikyoku-No51.htm",
+        "retrieved_at": "2026-06-22T00:00:00+00:00",
+        "raw_text": "T―空と涙について―（「恋の色彩」から）／古今和歌集より／田畠佑一 曲"
+      }
+    ],
+    "created_at": "2026-06-22T00:00:00+00:00",
+    "updated_at": "2026-06-22T00:00:00+00:00"
+  },
+  {
+    "id": "jca-no51-M1",
+    "title": "Agnus Dei",
+    "title_yomi": null,
+    "composer": "Thomas Tallis",
+    "lyricist": null,
+    "original_author": null,
+    "arranger": null,
+    "is_arrangement": false,
+    "collection": "Mass for four voices",
+    "voicing_category": "男声",
+    "voicing_detail": null,
+    "language": "la",
+    "accompaniment": null,
+    "source_type": "コンクール課題曲",
+    "source_detail": {
+      "contest_year": 2022,
+      "contest_round": null,
+      "edition_no": 51,
+      "piece_code": "M1"
+    },
+    "publisher": "全日本合唱連盟",
+    "tags": [],
+    "notes": null,
+    "needs_review": false,
+    "confidence": 1.0,
+    "sources": [
+      {
+        "url": "https://jcanet.or.jp/Public/meikyoku/meikyoku-No51.htm",
+        "retrieved_at": "2026-06-22T00:00:00+00:00",
+        "raw_text": "Agnus Dei（「Mass for four voices」から）／Thomas Tallis 曲"
+      }
+    ],
+    "created_at": "2026-06-22T00:00:00+00:00",
+    "updated_at": "2026-06-22T00:00:00+00:00"
+  },
+  {
+    "id": "jca-no51-M2",
+    "title": "Salut, Dame Sainte",
+    "title_yomi": null,
+    "composer": "Francis Poulenc",
+    "lyricist": null,
+    "original_author": null,
+    "arranger": null,
+    "is_arrangement": false,
+    "collection": "Quatre petites prières de Saint François d'Assise",
+    "voicing_category": "男声",
+    "voicing_detail": null,
+    "language": "fr",
+    "accompaniment": null,
+    "source_type": "コンクール課題曲",
+    "source_detail": {
+      "contest_year": 2022,
+      "contest_round": null,
+      "edition_no": 51,
+      "piece_code": "M2"
+    },
+    "publisher": "全日本合唱連盟",
+    "tags": [],
+    "notes": null,
+    "needs_review": false,
+    "confidence": 1.0,
+    "sources": [
+      {
+        "url": "https://jcanet.or.jp/Public/meikyoku/meikyoku-No51.htm",
+        "retrieved_at": "2026-06-22T00:00:00+00:00",
+        "raw_text": "Salut, Dame Sainte（「Quatre petites prières de Saint François d'Assise」から）／Francis Poulenc 曲"
+      }
+    ],
+    "created_at": "2026-06-22T00:00:00+00:00",
+    "updated_at": "2026-06-22T00:00:00+00:00"
+  },
+  {
+    "id": "jca-no51-M3",
+    "title": "ピリカピリカ",
+    "title_yomi": null,
+    "composer": "清水脩",
+    "lyricist": null,
+    "original_author": null,
+    "arranger": null,
+    "is_arrangement": false,
+    "collection": "アイヌのウポポ",
+    "voicing_category": "男声",
+    "voicing_detail": null,
+    "language": null,
+    "accompaniment": null,
+    "source_type": "コンクール課題曲",
+    "source_detail": {
+      "contest_year": 2022,
+      "contest_round": null,
+      "edition_no": 51,
+      "piece_code": "M3"
+    },
+    "publisher": "全日本合唱連盟",
+    "tags": [],
+    "notes": "採譜: 近藤鏡二郎",
+    "needs_review": true,
+    "confidence": 0.5,
+    "sources": [
+      {
+        "url": "https://jcanet.or.jp/Public/meikyoku/meikyoku-No51.htm",
+        "retrieved_at": "2026-06-22T00:00:00+00:00",
+        "raw_text": "ピリカピリカ（「アイヌのウポポ」から）／アイヌ民謡／近藤鏡二郎 採譜／清水脩 曲"
+      }
+    ],
+    "created_at": "2026-06-22T00:00:00+00:00",
+    "updated_at": "2026-06-22T00:00:00+00:00"
+  },
+  {
+    "id": "jca-no51-M4",
+    "title": "ぜんぶ",
+    "title_yomi": null,
+    "composer": "相澤直人",
+    "lyricist": "さくらももこ",
+    "original_author": null,
+    "arranger": null,
+    "is_arrangement": false,
+    "collection": "ぜんぶ ここに",
+    "voicing_category": "男声",
+    "voicing_detail": null,
+    "language": null,
+    "accompaniment": null,
+    "source_type": "コンクール課題曲",
+    "source_detail": {
+      "contest_year": 2022,
+      "contest_round": null,
+      "edition_no": 51,
+      "piece_code": "M4"
+    },
+    "publisher": "全日本合唱連盟",
+    "tags": [],
+    "notes": null,
+    "needs_review": false,
+    "confidence": 1.0,
+    "sources": [
+      {
+        "url": "https://jcanet.or.jp/Public/meikyoku/meikyoku-No51.htm",
+        "retrieved_at": "2026-06-22T00:00:00+00:00",
+        "raw_text": "ぜんぶ（「ぜんぶ ここに」から）／さくらももこ 詩／相澤直人 曲"
+      }
+    ],
+    "created_at": "2026-06-22T00:00:00+00:00",
+    "updated_at": "2026-06-22T00:00:00+00:00"
+  },
+  {
+    "id": "jca-no50-F1",
+    "title": "Quam pulchra es",
+    "title_yomi": null,
+    "composer": "John Dunstable",
+    "lyricist": null,
+    "original_author": null,
+    "arranger": null,
+    "is_arrangement": false,
+    "collection": null,
+    "voicing_category": "女声",
+    "voicing_detail": null,
+    "language": "la",
+    "accompaniment": null,
+    "source_type": "コンクール課題曲",
+    "source_detail": {
+      "contest_year": 2021,
+      "contest_round": null,
+      "edition_no": 50,
+      "piece_code": "F1"
+    },
+    "publisher": "全日本合唱連盟",
+    "tags": [],
+    "notes": null,
+    "needs_review": false,
+    "confidence": 1.0,
+    "sources": [
+      {
+        "url": "https://jcanet.or.jp/Public/meikyoku/meikyoku-No50.htm",
+        "retrieved_at": "2026-06-22T00:00:00+00:00",
+        "raw_text": "Quam pulchra es／John Dunstable 曲"
+      }
+    ],
+    "created_at": "2026-06-22T00:00:00+00:00",
+    "updated_at": "2026-06-22T00:00:00+00:00"
+  },
+  {
+    "id": "jca-no50-F2",
+    "title": "Lied",
+    "title_yomi": null,
+    "composer": "Robert Schumann",
+    "lyricist": "Emanuel von Geibel",
+    "original_author": null,
+    "arranger": null,
+    "is_arrangement": false,
+    "collection": "3 Gedichte",
+    "voicing_category": "女声",
+    "voicing_detail": null,
+    "language": "de",
+    "accompaniment": "ピアノ伴奏",
+    "source_type": "コンクール課題曲",
+    "source_detail": {
+      "contest_year": 2021,
+      "contest_round": null,
+      "edition_no": 50,
+      "piece_code": "F2"
+    },
+    "publisher": "全日本合唱連盟",
+    "tags": [],
+    "notes": null,
+    "needs_review": false,
+    "confidence": 1.0,
+    "sources": [
+      {
+        "url": "https://jcanet.or.jp/Public/meikyoku/meikyoku-No50.htm",
+        "retrieved_at": "2026-06-22T00:00:00+00:00",
+        "raw_text": "Lied（「3 Gedichte」から）／Emanuel von Geibel 詩 Robert Schumann 曲"
+      }
+    ],
+    "created_at": "2026-06-22T00:00:00+00:00",
+    "updated_at": "2026-06-22T00:00:00+00:00"
+  },
+  {
+    "id": "jca-no50-F3",
+    "title": "寂庵の祈り",
+    "title_yomi": null,
+    "composer": "千原英喜",
+    "lyricist": "瀬戸内寂聴",
+    "original_author": null,
+    "arranger": null,
+    "is_arrangement": false,
+    "collection": "ある真夜中に",
+    "voicing_category": "女声",
+    "voicing_detail": null,
+    "language": null,
+    "accompaniment": "無伴奏",
+    "source_type": "コンクール課題曲",
+    "source_detail": {
+      "contest_year": 2021,
+      "contest_round": null,
+      "edition_no": 50,
+      "piece_code": "F3"
+    },
+    "publisher": "全日本合唱連盟",
+    "tags": [],
+    "notes": null,
+    "needs_review": false,
+    "confidence": 1.0,
+    "sources": [
+      {
+        "url": "https://jcanet.or.jp/Public/meikyoku/meikyoku-No50.htm",
+        "retrieved_at": "2026-06-22T00:00:00+00:00",
+        "raw_text": "寂庵の祈り（「ある真夜中に」から）／瀬戸内寂聴 詩 千原英喜 曲"
+      }
+    ],
+    "created_at": "2026-06-22T00:00:00+00:00",
+    "updated_at": "2026-06-22T00:00:00+00:00"
+  },
+  {
+    "id": "jca-no50-F4",
+    "title": "定点観測",
+    "title_yomi": null,
+    "composer": "宮本正太郎",
+    "lyricist": "三角みづ紀",
+    "original_author": null,
+    "arranger": null,
+    "is_arrangement": false,
+    "collection": "定点観測",
+    "voicing_category": "女声",
+    "voicing_detail": null,
+    "language": null,
+    "accompaniment": "ピアノ伴奏",
+    "source_type": "コンクール課題曲",
+    "source_detail": {
+      "contest_year": 2021,
+      "contest_round": null,
+      "edition_no": 50,
+      "piece_code": "F4"
+    },
+    "publisher": "全日本合唱連盟",
+    "tags": [],
+    "notes": null,
+    "needs_review": false,
+    "confidence": 1.0,
+    "sources": [
+      {
+        "url": "https://jcanet.or.jp/Public/meikyoku/meikyoku-No50.htm",
+        "retrieved_at": "2026-06-22T00:00:00+00:00",
+        "raw_text": "定点観測（「定点観測」から）／三角みづ紀 詩 宮本正太郎 曲"
+      }
+    ],
+    "created_at": "2026-06-22T00:00:00+00:00",
+    "updated_at": "2026-06-22T00:00:00+00:00"
+  },
+  {
+    "id": "jca-no50-G1",
+    "title": "Gaude virgo, mater Christi",
+    "title_yomi": null,
+    "composer": "Josquin des Prez",
+    "lyricist": null,
+    "original_author": null,
+    "arranger": null,
+    "is_arrangement": false,
+    "collection": null,
+    "voicing_category": "混声",
+    "voicing_detail": null,
+    "language": "la",
+    "accompaniment": null,
+    "source_type": "コンクール課題曲",
+    "source_detail": {
+      "contest_year": 2021,
+      "contest_round": null,
+      "edition_no": 50,
+      "piece_code": "G1"
+    },
+    "publisher": "全日本合唱連盟",
+    "tags": [],
+    "notes": null,
+    "needs_review": false,
+    "confidence": 1.0,
+    "sources": [
+      {
+        "url": "https://jcanet.or.jp/Public/meikyoku/meikyoku-No50.htm",
+        "retrieved_at": "2026-06-22T00:00:00+00:00",
+        "raw_text": "Gaude virgo, mater Christi／Josquin des Prez 曲"
+      }
+    ],
+    "created_at": "2026-06-22T00:00:00+00:00",
+    "updated_at": "2026-06-22T00:00:00+00:00"
+  },
+  {
+    "id": "jca-no50-G2",
+    "title": "Es ist verrathen",
+    "title_yomi": null,
+    "composer": "Emanuel Geibel ドイツ語訳詩 Robert Schumann",
+    "lyricist": null,
+    "original_author": null,
+    "arranger": null,
+    "is_arrangement": false,
+    "collection": "Spanisches Liederspiel",
+    "voicing_category": "混声",
+    "voicing_detail": null,
+    "language": "de",
+    "accompaniment": "ピアノ伴奏",
+    "source_type": "コンクール課題曲",
+    "source_detail": {
+      "contest_year": 2021,
+      "contest_round": null,
+      "edition_no": 50,
+      "piece_code": "G2"
+    },
+    "publisher": "全日本合唱連盟",
+    "tags": [],
+    "notes": null,
+    "needs_review": false,
+    "confidence": 1.0,
+    "sources": [
+      {
+        "url": "https://jcanet.or.jp/Public/meikyoku/meikyoku-No50.htm",
+        "retrieved_at": "2026-06-22T00:00:00+00:00",
+        "raw_text": "Es ist verrathen（「Spanisches Liederspiel」から）／Emanuel Geibel ドイツ語訳詩 Robert Schumann 曲"
+      }
+    ],
+    "created_at": "2026-06-22T00:00:00+00:00",
+    "updated_at": "2026-06-22T00:00:00+00:00"
+  },
+  {
+    "id": "jca-no50-G3",
+    "title": "草原の別れ",
+    "title_yomi": null,
+    "composer": "大中 恩",
+    "lyricist": "阪田寛夫",
+    "original_author": null,
+    "arranger": null,
+    "is_arrangement": false,
+    "collection": null,
+    "voicing_category": "混声",
+    "voicing_detail": null,
+    "language": null,
+    "accompaniment": null,
+    "source_type": "コンクール課題曲",
+    "source_detail": {
+      "contest_year": 2021,
+      "contest_round": null,
+      "edition_no": 50,
+      "piece_code": "G3"
+    },
+    "publisher": "全日本合唱連盟",
+    "tags": [],
+    "notes": null,
+    "needs_review": false,
+    "confidence": 1.0,
+    "sources": [
+      {
+        "url": "https://jcanet.or.jp/Public/meikyoku/meikyoku-No50.htm",
+        "retrieved_at": "2026-06-22T00:00:00+00:00",
+        "raw_text": "草原の別れ／阪田寛夫 詩 大中 恩 曲"
+      }
+    ],
+    "created_at": "2026-06-22T00:00:00+00:00",
+    "updated_at": "2026-06-22T00:00:00+00:00"
+  },
+  {
+    "id": "jca-no50-G4",
+    "title": "智慧の湖",
+    "title_yomi": null,
+    "composer": "根岸宏輔",
+    "lyricist": "高橋元吉",
+    "original_author": null,
+    "arranger": null,
+    "is_arrangement": false,
+    "collection": "遠望",
+    "voicing_category": "混声",
+    "voicing_detail": null,
+    "language": null,
+    "accompaniment": "ピアノ伴奏",
+    "source_type": "コンクール課題曲",
+    "source_detail": {
+      "contest_year": 2021,
+      "contest_round": null,
+      "edition_no": 50,
+      "piece_code": "G4"
+    },
+    "publisher": "全日本合唱連盟",
+    "tags": [],
+    "notes": null,
+    "needs_review": false,
+    "confidence": 1.0,
+    "sources": [
+      {
+        "url": "https://jcanet.or.jp/Public/meikyoku/meikyoku-No50.htm",
+        "retrieved_at": "2026-06-22T00:00:00+00:00",
+        "raw_text": "智慧の湖（「遠望」から）／高橋元吉 詩 根岸宏輔 曲"
+      }
+    ],
+    "created_at": "2026-06-22T00:00:00+00:00",
+    "updated_at": "2026-06-22T00:00:00+00:00"
+  },
+  {
+    "id": "jca-no50-M1",
+    "title": "Surrexit pastor bonus",
+    "title_yomi": null,
+    "composer": "Giovanni Pierluigi da Palestrina",
+    "lyricist": null,
+    "original_author": null,
+    "arranger": null,
+    "is_arrangement": false,
+    "collection": null,
+    "voicing_category": "男声",
+    "voicing_detail": null,
+    "language": "la",
+    "accompaniment": null,
+    "source_type": "コンクール課題曲",
+    "source_detail": {
+      "contest_year": 2021,
+      "contest_round": null,
+      "edition_no": 50,
+      "piece_code": "M1"
+    },
+    "publisher": "全日本合唱連盟",
+    "tags": [],
+    "notes": null,
+    "needs_review": false,
+    "confidence": 1.0,
+    "sources": [
+      {
+        "url": "https://jcanet.or.jp/Public/meikyoku/meikyoku-No50.htm",
+        "retrieved_at": "2026-06-22T00:00:00+00:00",
+        "raw_text": "Surrexit pastor bonus／Giovanni Pierluigi da Palestrina 曲"
+      }
+    ],
+    "created_at": "2026-06-22T00:00:00+00:00",
+    "updated_at": "2026-06-22T00:00:00+00:00"
+  },
+  {
+    "id": "jca-no50-M2",
+    "title": "Frühlingsglocken",
+    "title_yomi": null,
+    "composer": "Robert Schumann",
+    "lyricist": "Robert Reinick",
+    "original_author": null,
+    "arranger": null,
+    "is_arrangement": false,
+    "collection": "6 Lieder",
+    "voicing_category": "男声",
+    "voicing_detail": null,
+    "language": "de",
+    "accompaniment": null,
+    "source_type": "コンクール課題曲",
+    "source_detail": {
+      "contest_year": 2021,
+      "contest_round": null,
+      "edition_no": 50,
+      "piece_code": "M2"
+    },
+    "publisher": "全日本合唱連盟",
+    "tags": [],
+    "notes": null,
+    "needs_review": false,
+    "confidence": 1.0,
+    "sources": [
+      {
+        "url": "https://jcanet.or.jp/Public/meikyoku/meikyoku-No50.htm",
+        "retrieved_at": "2026-06-22T00:00:00+00:00",
+        "raw_text": "Frühlingsglocken（「6 Lieder」から）／Robert Reinick 詩 Robert Schumann 曲"
+      }
+    ],
+    "created_at": "2026-06-22T00:00:00+00:00",
+    "updated_at": "2026-06-22T00:00:00+00:00"
+  },
+  {
+    "id": "jca-no50-M3",
+    "title": "平林",
+    "title_yomi": null,
+    "composer": "落語「平林」より 大中 恩",
+    "lyricist": null,
+    "original_author": null,
+    "arranger": null,
+    "is_arrangement": false,
+    "collection": null,
+    "voicing_category": "男声",
+    "voicing_detail": null,
+    "language": null,
+    "accompaniment": null,
+    "source_type": "コンクール課題曲",
+    "source_detail": {
+      "contest_year": 2021,
+      "contest_round": null,
+      "edition_no": 50,
+      "piece_code": "M3"
+    },
+    "publisher": "全日本合唱連盟",
+    "tags": [],
+    "notes": null,
+    "needs_review": false,
+    "confidence": 1.0,
+    "sources": [
+      {
+        "url": "https://jcanet.or.jp/Public/meikyoku/meikyoku-No50.htm",
+        "retrieved_at": "2026-06-22T00:00:00+00:00",
+        "raw_text": "平林／落語「平林」より 大中 恩 曲"
+      }
+    ],
+    "created_at": "2026-06-22T00:00:00+00:00",
+    "updated_at": "2026-06-22T00:00:00+00:00"
+  },
+  {
+    "id": "jca-no50-M4",
+    "title": "花と画家",
+    "title_yomi": null,
+    "composer": "上田真樹",
+    "lyricist": "谷川俊太郎",
+    "original_author": null,
+    "arranger": null,
+    "is_arrangement": false,
+    "collection": "そのあと",
+    "voicing_category": "男声",
+    "voicing_detail": null,
+    "language": null,
+    "accompaniment": null,
+    "source_type": "コンクール課題曲",
+    "source_detail": {
+      "contest_year": 2021,
+      "contest_round": null,
+      "edition_no": 50,
+      "piece_code": "M4"
+    },
+    "publisher": "全日本合唱連盟",
+    "tags": [],
+    "notes": null,
+    "needs_review": false,
+    "confidence": 1.0,
+    "sources": [
+      {
+        "url": "https://jcanet.or.jp/Public/meikyoku/meikyoku-No50.htm",
+        "retrieved_at": "2026-06-22T00:00:00+00:00",
+        "raw_text": "花と画家（「そのあと」から）／谷川俊太郎 詩 上田真樹 曲"
+      }
+    ],
+    "created_at": "2026-06-22T00:00:00+00:00",
+    "updated_at": "2026-06-22T00:00:00+00:00"
+  },
+  {
+    "id": "jca-no49-F1",
+    "title": "O sacrum convivium",
+    "title_yomi": null,
+    "composer": "Tomas Luis de Victoria",
+    "lyricist": null,
+    "original_author": null,
+    "arranger": null,
+    "is_arrangement": false,
+    "collection": null,
+    "voicing_category": "女声",
+    "voicing_detail": null,
+    "language": "la",
+    "accompaniment": null,
+    "source_type": "コンクール課題曲",
+    "source_detail": {
+      "contest_year": 2020,
+      "contest_round": null,
+      "edition_no": 49,
+      "piece_code": "F1"
+    },
+    "publisher": "全日本合唱連盟",
+    "tags": [],
+    "notes": null,
+    "needs_review": false,
+    "confidence": 1.0,
+    "sources": [
+      {
+        "url": "https://jcanet.or.jp/Public/meikyoku/meikyoku-No49.htm",
+        "retrieved_at": "2026-06-22T00:00:00+00:00",
+        "raw_text": "O sacrum convivium／Tomas Luis de Victoria 曲"
+      }
+    ],
+    "created_at": "2026-06-22T00:00:00+00:00",
+    "updated_at": "2026-06-22T00:00:00+00:00"
+  },
+  {
+    "id": "jca-no49-F2",
+    "title": "La Fede",
+    "title_yomi": null,
+    "composer": "Gioachino Rossini",
+    "lyricist": null,
+    "original_author": null,
+    "arranger": null,
+    "is_arrangement": false,
+    "collection": "3 cori religiosi",
+    "voicing_category": "女声",
+    "voicing_detail": null,
+    "language": "it",
+    "accompaniment": "ピアノ伴奏",
+    "source_type": "コンクール課題曲",
+    "source_detail": {
+      "contest_year": 2020,
+      "contest_round": null,
+      "edition_no": 49,
+      "piece_code": "F2"
+    },
+    "publisher": "全日本合唱連盟",
+    "tags": [],
+    "notes": null,
+    "needs_review": false,
+    "confidence": 1.0,
+    "sources": [
+      {
+        "url": "https://jcanet.or.jp/Public/meikyoku/meikyoku-No49.htm",
+        "retrieved_at": "2026-06-22T00:00:00+00:00",
+        "raw_text": "La Fede（「3 cori religiosi」から）／Gioachino Rossini 曲"
+      }
+    ],
+    "created_at": "2026-06-22T00:00:00+00:00",
+    "updated_at": "2026-06-22T00:00:00+00:00"
+  },
+  {
+    "id": "jca-no49-F3",
+    "title": "夜来香",
+    "title_yomi": null,
+    "composer": "池辺晋一郎",
+    "lyricist": "江間章子",
+    "original_author": null,
+    "arranger": null,
+    "is_arrangement": false,
+    "collection": "花の四季",
+    "voicing_category": "女声",
+    "voicing_detail": null,
+    "language": null,
+    "accompaniment": "ピアノ伴奏",
+    "source_type": "コンクール課題曲",
+    "source_detail": {
+      "contest_year": 2020,
+      "contest_round": null,
+      "edition_no": 49,
+      "piece_code": "F3"
+    },
+    "publisher": "全日本合唱連盟",
+    "tags": [],
+    "notes": null,
+    "needs_review": false,
+    "confidence": 1.0,
+    "sources": [
+      {
+        "url": "https://jcanet.or.jp/Public/meikyoku/meikyoku-No49.htm",
+        "retrieved_at": "2026-06-22T00:00:00+00:00",
+        "raw_text": "夜来香（「花の四季」から）／江間章子 詩 池辺晋一郎 曲"
+      }
+    ],
+    "created_at": "2026-06-22T00:00:00+00:00",
+    "updated_at": "2026-06-22T00:00:00+00:00"
+  },
+  {
+    "id": "jca-no49-F4",
+    "title": "いたいな",
+    "title_yomi": null,
+    "composer": "嶋みどり",
+    "lyricist": "木島 始",
+    "original_author": null,
+    "arranger": null,
+    "is_arrangement": false,
+    "collection": "愛のとき",
+    "voicing_category": "女声",
+    "voicing_detail": null,
+    "language": null,
+    "accompaniment": null,
+    "source_type": "コンクール課題曲",
+    "source_detail": {
+      "contest_year": 2020,
+      "contest_round": null,
+      "edition_no": 49,
+      "piece_code": "F4"
+    },
+    "publisher": "全日本合唱連盟",
+    "tags": [],
+    "notes": null,
+    "needs_review": false,
+    "confidence": 1.0,
+    "sources": [
+      {
+        "url": "https://jcanet.or.jp/Public/meikyoku/meikyoku-No49.htm",
+        "retrieved_at": "2026-06-22T00:00:00+00:00",
+        "raw_text": "いたいな（「愛のとき」から）／木島 始 詩 嶋みどり 曲"
+      }
+    ],
+    "created_at": "2026-06-22T00:00:00+00:00",
+    "updated_at": "2026-06-22T00:00:00+00:00"
+  },
+  {
+    "id": "jca-no49-G1",
+    "title": "Ehre sei dir, Christe",
+    "title_yomi": null,
+    "composer": "Heinrich Schütz",
+    "lyricist": null,
+    "original_author": null,
+    "arranger": null,
+    "is_arrangement": false,
+    "collection": "Die Matthäus-Passion",
+    "voicing_category": "混声",
+    "voicing_detail": null,
+    "language": "de",
+    "accompaniment": null,
+    "source_type": "コンクール課題曲",
+    "source_detail": {
+      "contest_year": 2020,
+      "contest_round": null,
+      "edition_no": 49,
+      "piece_code": "G1"
+    },
+    "publisher": "全日本合唱連盟",
+    "tags": [],
+    "notes": null,
+    "needs_review": false,
+    "confidence": 1.0,
+    "sources": [
+      {
+        "url": "https://jcanet.or.jp/Public/meikyoku/meikyoku-No49.htm",
+        "retrieved_at": "2026-06-22T00:00:00+00:00",
+        "raw_text": "Ehre sei dir, Christe（「Die Matthäus-Passion」から）／Heinrich Schütz 曲"
+      }
+    ],
+    "created_at": "2026-06-22T00:00:00+00:00",
+    "updated_at": "2026-06-22T00:00:00+00:00"
+  },
+  {
+    "id": "jca-no49-G2",
+    "title": "O salutaris Hostia",
+    "title_yomi": null,
+    "composer": "Gioachino Rossini",
+    "lyricist": null,
+    "original_author": null,
+    "arranger": null,
+    "is_arrangement": false,
+    "collection": null,
+    "voicing_category": "混声",
+    "voicing_detail": null,
+    "language": "la",
+    "accompaniment": null,
+    "source_type": "コンクール課題曲",
+    "source_detail": {
+      "contest_year": 2020,
+      "contest_round": null,
+      "edition_no": 49,
+      "piece_code": "G2"
+    },
+    "publisher": "全日本合唱連盟",
+    "tags": [],
+    "notes": null,
+    "needs_review": false,
+    "confidence": 1.0,
+    "sources": [
+      {
+        "url": "https://jcanet.or.jp/Public/meikyoku/meikyoku-No49.htm",
+        "retrieved_at": "2026-06-22T00:00:00+00:00",
+        "raw_text": "O salutaris Hostia／Gioachino Rossini 曲"
+      }
+    ],
+    "created_at": "2026-06-22T00:00:00+00:00",
+    "updated_at": "2026-06-22T00:00:00+00:00"
+  },
+  {
+    "id": "jca-no49-G3",
+    "title": "うたをうたうのはわすれても",
+    "title_yomi": null,
+    "composer": "津田 元",
+    "lyricist": "岸田衿子",
+    "original_author": null,
+    "arranger": null,
+    "is_arrangement": false,
+    "collection": "うたをうたうのはわすれても",
+    "voicing_category": "混声",
+    "voicing_detail": null,
+    "language": null,
+    "accompaniment": null,
+    "source_type": "コンクール課題曲",
+    "source_detail": {
+      "contest_year": 2020,
+      "contest_round": null,
+      "edition_no": 49,
+      "piece_code": "G3"
+    },
+    "publisher": "全日本合唱連盟",
+    "tags": [],
+    "notes": null,
+    "needs_review": false,
+    "confidence": 1.0,
+    "sources": [
+      {
+        "url": "https://jcanet.or.jp/Public/meikyoku/meikyoku-No49.htm",
+        "retrieved_at": "2026-06-22T00:00:00+00:00",
+        "raw_text": "うたをうたうのはわすれても（「うたをうたうのはわすれても」から）／岸田衿子 詩 津田 元 曲"
+      }
+    ],
+    "created_at": "2026-06-22T00:00:00+00:00",
+    "updated_at": "2026-06-22T00:00:00+00:00"
+  },
+  {
+    "id": "jca-no49-G4",
+    "title": "骨",
+    "title_yomi": null,
+    "composer": "山口龍彦",
+    "lyricist": "中原中也",
+    "original_author": null,
+    "arranger": null,
+    "is_arrangement": false,
+    "collection": "4つの追憶の曲",
+    "voicing_category": "混声",
+    "voicing_detail": null,
+    "language": null,
+    "accompaniment": "ピアノ伴奏",
+    "source_type": "コンクール課題曲",
+    "source_detail": {
+      "contest_year": 2020,
+      "contest_round": null,
+      "edition_no": 49,
+      "piece_code": "G4"
+    },
+    "publisher": "全日本合唱連盟",
+    "tags": [],
+    "notes": null,
+    "needs_review": false,
+    "confidence": 1.0,
+    "sources": [
+      {
+        "url": "https://jcanet.or.jp/Public/meikyoku/meikyoku-No49.htm",
+        "retrieved_at": "2026-06-22T00:00:00+00:00",
+        "raw_text": "骨（「4つの追憶の曲」から）／中原中也 詩 山口龍彦 曲"
+      }
+    ],
+    "created_at": "2026-06-22T00:00:00+00:00",
+    "updated_at": "2026-06-22T00:00:00+00:00"
+  },
+  {
+    "id": "jca-no49-M1",
+    "title": "De coelo veniet",
+    "title_yomi": null,
+    "composer": "Jacobus Handl",
+    "lyricist": null,
+    "original_author": null,
+    "arranger": null,
+    "is_arrangement": false,
+    "collection": null,
+    "voicing_category": "男声",
+    "voicing_detail": null,
+    "language": "la",
+    "accompaniment": null,
+    "source_type": "コンクール課題曲",
+    "source_detail": {
+      "contest_year": 2020,
+      "contest_round": null,
+      "edition_no": 49,
+      "piece_code": "M1"
+    },
+    "publisher": "全日本合唱連盟",
+    "tags": [],
+    "notes": null,
+    "needs_review": false,
+    "confidence": 1.0,
+    "sources": [
+      {
+        "url": "https://jcanet.or.jp/Public/meikyoku/meikyoku-No49.htm",
+        "retrieved_at": "2026-06-22T00:00:00+00:00",
+        "raw_text": "De coelo veniet／Jacobus Handl 曲"
+      }
+    ],
+    "created_at": "2026-06-22T00:00:00+00:00",
+    "updated_at": "2026-06-22T00:00:00+00:00"
+  },
+  {
+    "id": "jca-no49-M2",
+    "title": "Preghiera",
+    "title_yomi": null,
+    "composer": "Gioachino Rossini",
+    "lyricist": "Giuseppe Torre",
+    "original_author": null,
+    "arranger": null,
+    "is_arrangement": false,
+    "collection": null,
+    "voicing_category": "男声",
+    "voicing_detail": null,
+    "language": "it",
+    "accompaniment": null,
+    "source_type": "コンクール課題曲",
+    "source_detail": {
+      "contest_year": 2020,
+      "contest_round": null,
+      "edition_no": 49,
+      "piece_code": "M2"
+    },
+    "publisher": "全日本合唱連盟",
+    "tags": [],
+    "notes": null,
+    "needs_review": false,
+    "confidence": 1.0,
+    "sources": [
+      {
+        "url": "https://jcanet.or.jp/Public/meikyoku/meikyoku-No49.htm",
+        "retrieved_at": "2026-06-22T00:00:00+00:00",
+        "raw_text": "Preghiera／Giuseppe Torre 詩 Gioachino Rossini 曲"
+      }
+    ],
+    "created_at": "2026-06-22T00:00:00+00:00",
+    "updated_at": "2026-06-22T00:00:00+00:00"
+  },
+  {
+    "id": "jca-no49-M3",
+    "title": "T（合唱のためのコンポジション 第6番「男声合唱のためのコンポジション」から）",
+    "title_yomi": null,
+    "composer": "間宮芳生",
+    "lyricist": null,
+    "original_author": null,
+    "arranger": null,
+    "is_arrangement": false,
+    "collection": null,
+    "voicing_category": "男声",
+    "voicing_detail": null,
+    "language": null,
+    "accompaniment": null,
+    "source_type": "コンクール課題曲",
+    "source_detail": {
+      "contest_year": 2020,
+      "contest_round": null,
+      "edition_no": 49,
+      "piece_code": "M3"
+    },
+    "publisher": "全日本合唱連盟",
+    "tags": [],
+    "notes": null,
+    "needs_review": false,
+    "confidence": 1.0,
+    "sources": [
+      {
+        "url": "https://jcanet.or.jp/Public/meikyoku/meikyoku-No49.htm",
+        "retrieved_at": "2026-06-22T00:00:00+00:00",
+        "raw_text": "T（合唱のためのコンポジション 第6番「男声合唱のためのコンポジション」から）／間宮芳生 曲"
+      }
+    ],
+    "created_at": "2026-06-22T00:00:00+00:00",
+    "updated_at": "2026-06-22T00:00:00+00:00"
+  },
+  {
+    "id": "jca-no49-M4",
+    "title": "心象U",
+    "title_yomi": null,
+    "composer": "寺嶋陸也",
+    "lyricist": "中原中也",
+    "original_author": null,
+    "arranger": null,
+    "is_arrangement": false,
+    "collection": "風と浪三唱",
+    "voicing_category": "男声",
+    "voicing_detail": null,
+    "language": null,
+    "accompaniment": "ピアノ伴奏",
+    "source_type": "コンクール課題曲",
+    "source_detail": {
+      "contest_year": 2020,
+      "contest_round": null,
+      "edition_no": 49,
+      "piece_code": "M4"
+    },
+    "publisher": "全日本合唱連盟",
+    "tags": [],
+    "notes": null,
+    "needs_review": false,
+    "confidence": 1.0,
+    "sources": [
+      {
+        "url": "https://jcanet.or.jp/Public/meikyoku/meikyoku-No49.htm",
+        "retrieved_at": "2026-06-22T00:00:00+00:00",
+        "raw_text": "心象U（「風と浪三唱」から）／中原中也 詩 寺嶋陸也 曲"
+      }
+    ],
+    "created_at": "2026-06-22T00:00:00+00:00",
+    "updated_at": "2026-06-22T00:00:00+00:00"
+  },
+  {
+    "id": "jca-no48-F1",
+    "title": "Gabriel Archangelus",
+    "title_yomi": null,
+    "composer": "Francisco Guerrero",
+    "lyricist": null,
+    "original_author": null,
+    "arranger": null,
+    "is_arrangement": false,
+    "collection": null,
+    "voicing_category": "女声",
+    "voicing_detail": null,
+    "language": "la",
+    "accompaniment": null,
+    "source_type": "コンクール課題曲",
+    "source_detail": {
+      "contest_year": 2018,
+      "contest_round": null,
+      "edition_no": 48,
+      "piece_code": "F1"
+    },
+    "publisher": "全日本合唱連盟",
+    "tags": [],
+    "notes": null,
+    "needs_review": false,
+    "confidence": 1.0,
+    "sources": [
+      {
+        "url": "https://jcanet.or.jp/Public/meikyoku/meikyoku-No48.htm",
+        "retrieved_at": "2026-06-22T00:00:00+00:00",
+        "raw_text": "Gabriel Archangelus （Francisco Guerrero 曲）"
+      }
+    ],
+    "created_at": "2026-06-22T00:00:00+00:00",
+    "updated_at": "2026-06-22T00:00:00+00:00"
+  },
+  {
+    "id": "jca-no48-F2",
+    "title": "Kantat till ord av W. von Konow",
+    "title_yomi": null,
+    "composer": "Jean Sibelius",
+    "lyricist": "Walter von Konow",
+    "original_author": null,
+    "arranger": null,
+    "is_arrangement": false,
+    "collection": null,
+    "voicing_category": "女声",
+    "voicing_detail": null,
+    "language": "sv",
+    "accompaniment": null,
+    "source_type": "コンクール課題曲",
+    "source_detail": {
+      "contest_year": 2018,
+      "contest_round": null,
+      "edition_no": 48,
+      "piece_code": "F2"
+    },
+    "publisher": "全日本合唱連盟",
+    "tags": [],
+    "notes": null,
+    "needs_review": false,
+    "confidence": 1.0,
+    "sources": [
+      {
+        "url": "https://jcanet.or.jp/Public/meikyoku/meikyoku-No48.htm",
+        "retrieved_at": "2026-06-22T00:00:00+00:00",
+        "raw_text": "Kantat till ord av W. von Konow（Walter von Konow 詩／Jean Sibelius 曲）"
+      }
+    ],
+    "created_at": "2026-06-22T00:00:00+00:00",
+    "updated_at": "2026-06-22T00:00:00+00:00"
+  },
+  {
+    "id": "jca-no48-F3",
+    "title": "飛翔―白鷺",
+    "title_yomi": null,
+    "composer": "田三郎",
+    "lyricist": "高野喜久雄",
+    "original_author": null,
+    "arranger": null,
+    "is_arrangement": false,
+    "collection": "内なる遠さ",
+    "voicing_category": "女声",
+    "voicing_detail": null,
+    "language": null,
+    "accompaniment": "ピアノ伴奏",
+    "source_type": "コンクール課題曲",
+    "source_detail": {
+      "contest_year": 2018,
+      "contest_round": null,
+      "edition_no": 48,
+      "piece_code": "F3"
+    },
+    "publisher": "全日本合唱連盟",
+    "tags": [],
+    "notes": null,
+    "needs_review": false,
+    "confidence": 1.0,
+    "sources": [
+      {
+        "url": "https://jcanet.or.jp/Public/meikyoku/meikyoku-No48.htm",
+        "retrieved_at": "2026-06-22T00:00:00+00:00",
+        "raw_text": "飛翔―白鷺（「内なる遠さ」から） （高野喜久雄 詩／田三郎 曲）"
+      }
+    ],
+    "created_at": "2026-06-22T00:00:00+00:00",
+    "updated_at": "2026-06-22T00:00:00+00:00"
+  },
+  {
+    "id": "jca-no48-F4",
+    "title": "その木々は緑",
+    "title_yomi": null,
+    "composer": "横山潤子",
+    "lyricist": "覚 和歌子",
+    "original_author": null,
+    "arranger": null,
+    "is_arrangement": false,
+    "collection": "その木々は緑",
+    "voicing_category": "女声",
+    "voicing_detail": null,
+    "language": null,
+    "accompaniment": "ピアノ伴奏",
+    "source_type": "コンクール課題曲",
+    "source_detail": {
+      "contest_year": 2018,
+      "contest_round": null,
+      "edition_no": 48,
+      "piece_code": "F4"
+    },
+    "publisher": "全日本合唱連盟",
+    "tags": [],
+    "notes": null,
+    "needs_review": false,
+    "confidence": 1.0,
+    "sources": [
+      {
+        "url": "https://jcanet.or.jp/Public/meikyoku/meikyoku-No48.htm",
+        "retrieved_at": "2026-06-22T00:00:00+00:00",
+        "raw_text": "その木々は緑（「その木々は緑」から） （覚 和歌子 詩／横山潤子 曲）"
+      }
+    ],
+    "created_at": "2026-06-22T00:00:00+00:00",
+    "updated_at": "2026-06-22T00:00:00+00:00"
+  },
+  {
+    "id": "jca-no48-G1",
+    "title": "Ave Maria",
+    "title_yomi": null,
+    "composer": "Tomás Luis de Victoria",
+    "lyricist": null,
+    "original_author": null,
+    "arranger": null,
+    "is_arrangement": false,
+    "collection": null,
+    "voicing_category": "混声",
+    "voicing_detail": null,
+    "language": "la",
+    "accompaniment": null,
+    "source_type": "コンクール課題曲",
+    "source_detail": {
+      "contest_year": 2018,
+      "contest_round": null,
+      "edition_no": 48,
+      "piece_code": "G1"
+    },
+    "publisher": "全日本合唱連盟",
+    "tags": [],
+    "notes": null,
+    "needs_review": false,
+    "confidence": 1.0,
+    "sources": [
+      {
+        "url": "https://jcanet.or.jp/Public/meikyoku/meikyoku-No48.htm",
+        "retrieved_at": "2026-06-22T00:00:00+00:00",
+        "raw_text": "Ave Maria （Tomás Luis de Victoria 曲）"
+      }
+    ],
+    "created_at": "2026-06-22T00:00:00+00:00",
+    "updated_at": "2026-06-22T00:00:00+00:00"
+  },
+  {
+    "id": "jca-no48-G2",
+    "title": "Ensam i dunkla skogarnas famn",
+    "title_yomi": null,
+    "composer": "Jean Sibelius",
+    "lyricist": "Emil von Qvanten",
+    "original_author": null,
+    "arranger": null,
+    "is_arrangement": false,
+    "collection": null,
+    "voicing_category": "混声",
+    "voicing_detail": null,
+    "language": "sv",
+    "accompaniment": null,
+    "source_type": "コンクール課題曲",
+    "source_detail": {
+      "contest_year": 2018,
+      "contest_round": null,
+      "edition_no": 48,
+      "piece_code": "G2"
+    },
+    "publisher": "全日本合唱連盟",
+    "tags": [],
+    "notes": null,
+    "needs_review": false,
+    "confidence": 1.0,
+    "sources": [
+      {
+        "url": "https://jcanet.or.jp/Public/meikyoku/meikyoku-No48.htm",
+        "retrieved_at": "2026-06-22T00:00:00+00:00",
+        "raw_text": "Ensam i dunkla skogarnas famn （Emil von Qvanten 詩／Jean Sibelius 曲）"
+      }
+    ],
+    "created_at": "2026-06-22T00:00:00+00:00",
+    "updated_at": "2026-06-22T00:00:00+00:00"
+  },
+  {
+    "id": "jca-no48-G3",
+    "title": "蜂が一ぴき…",
+    "title_yomi": null,
+    "composer": "林 光",
+    "lyricist": "宮沢賢治",
+    "original_author": null,
+    "arranger": null,
+    "is_arrangement": false,
+    "collection": "無声慟哭",
+    "voicing_category": "混声",
+    "voicing_detail": null,
+    "language": null,
+    "accompaniment": null,
+    "source_type": "コンクール課題曲",
+    "source_detail": {
+      "contest_year": 2018,
+      "contest_round": null,
+      "edition_no": 48,
+      "piece_code": "G3"
+    },
+    "publisher": "全日本合唱連盟",
+    "tags": [],
+    "notes": null,
+    "needs_review": false,
+    "confidence": 1.0,
+    "sources": [
+      {
+        "url": "https://jcanet.or.jp/Public/meikyoku/meikyoku-No48.htm",
+        "retrieved_at": "2026-06-22T00:00:00+00:00",
+        "raw_text": "蜂が一ぴき…（「無声慟哭」から） （宮沢賢治 詩／林 光 曲）"
+      }
+    ],
+    "created_at": "2026-06-22T00:00:00+00:00",
+    "updated_at": "2026-06-22T00:00:00+00:00"
+  },
+  {
+    "id": "jca-no48-G4",
+    "title": "雪",
+    "title_yomi": null,
+    "composer": "川浦義広",
+    "lyricist": "三好達治",
+    "original_author": null,
+    "arranger": null,
+    "is_arrangement": false,
+    "collection": "甃のうへ",
+    "voicing_category": "混声",
+    "voicing_detail": null,
+    "language": null,
+    "accompaniment": "ピアノ伴奏",
+    "source_type": "コンクール課題曲",
+    "source_detail": {
+      "contest_year": 2018,
+      "contest_round": null,
+      "edition_no": 48,
+      "piece_code": "G4"
+    },
+    "publisher": "全日本合唱連盟",
+    "tags": [],
+    "notes": null,
+    "needs_review": false,
+    "confidence": 1.0,
+    "sources": [
+      {
+        "url": "https://jcanet.or.jp/Public/meikyoku/meikyoku-No48.htm",
+        "retrieved_at": "2026-06-22T00:00:00+00:00",
+        "raw_text": "雪（「甃のうへ」から）（三好達治 詩／川浦義広 曲）"
+      }
+    ],
+    "created_at": "2026-06-22T00:00:00+00:00",
+    "updated_at": "2026-06-22T00:00:00+00:00"
+  },
+  {
+    "id": "jca-no48-M1",
+    "title": "Kyrie",
+    "title_yomi": null,
+    "composer": "Jean de Ockeghem",
+    "lyricist": null,
+    "original_author": null,
+    "arranger": null,
+    "is_arrangement": false,
+    "collection": "Missa Presque transi",
+    "voicing_category": "男声",
+    "voicing_detail": null,
+    "language": "la",
+    "accompaniment": null,
+    "source_type": "コンクール課題曲",
+    "source_detail": {
+      "contest_year": 2018,
+      "contest_round": null,
+      "edition_no": 48,
+      "piece_code": "M1"
+    },
+    "publisher": "全日本合唱連盟",
+    "tags": [],
+    "notes": null,
+    "needs_review": false,
+    "confidence": 1.0,
+    "sources": [
+      {
+        "url": "https://jcanet.or.jp/Public/meikyoku/meikyoku-No48.htm",
+        "retrieved_at": "2026-06-22T00:00:00+00:00",
+        "raw_text": "Kyrie（「Missa Presque transi」から） （Jean de Ockeghem 曲）"
+      }
+    ],
+    "created_at": "2026-06-22T00:00:00+00:00",
+    "updated_at": "2026-06-22T00:00:00+00:00"
+  },
+  {
+    "id": "jca-no48-M2",
+    "title": "Ne pitkän matkan kulkijat",
+    "title_yomi": null,
+    "composer": "Jean Sibelius",
+    "lyricist": "Larin Kyösti",
+    "original_author": null,
+    "arranger": null,
+    "is_arrangement": false,
+    "collection": "Two Partsongs",
+    "voicing_category": "男声",
+    "voicing_detail": null,
+    "language": "fi",
+    "accompaniment": null,
+    "source_type": "コンクール課題曲",
+    "source_detail": {
+      "contest_year": 2018,
+      "contest_round": null,
+      "edition_no": 48,
+      "piece_code": "M2"
+    },
+    "publisher": "全日本合唱連盟",
+    "tags": [],
+    "notes": null,
+    "needs_review": false,
+    "confidence": 1.0,
+    "sources": [
+      {
+        "url": "https://jcanet.or.jp/Public/meikyoku/meikyoku-No48.htm",
+        "retrieved_at": "2026-06-22T00:00:00+00:00",
+        "raw_text": "Ne pitkän matkan kulkijat （「Two Partsongs」から） （Larin Kyösti 詩／Jean Sibelius 曲）"
+      }
+    ],
+    "created_at": "2026-06-22T00:00:00+00:00",
+    "updated_at": "2026-06-22T00:00:00+00:00"
+  },
+  {
+    "id": "jca-no48-M3",
+    "title": "まじめな顔つき",
+    "title_yomi": null,
+    "composer": "三善 晃",
+    "lyricist": "谷川俊太郎",
+    "original_author": null,
+    "arranger": null,
+    "is_arrangement": false,
+    "collection": "クレーの絵本 第2集",
+    "voicing_category": "男声",
+    "voicing_detail": null,
+    "language": null,
+    "accompaniment": null,
+    "source_type": "コンクール課題曲",
+    "source_detail": {
+      "contest_year": 2018,
+      "contest_round": null,
+      "edition_no": 48,
+      "piece_code": "M3"
+    },
+    "publisher": "全日本合唱連盟",
+    "tags": [],
+    "notes": null,
+    "needs_review": false,
+    "confidence": 1.0,
+    "sources": [
+      {
+        "url": "https://jcanet.or.jp/Public/meikyoku/meikyoku-No48.htm",
+        "retrieved_at": "2026-06-22T00:00:00+00:00",
+        "raw_text": "まじめな顔つき（「クレーの絵本 第2集」から） （谷川俊太郎 詩／三善 晃 曲）"
+      }
+    ],
+    "created_at": "2026-06-22T00:00:00+00:00",
+    "updated_at": "2026-06-22T00:00:00+00:00"
+  },
+  {
+    "id": "jca-no48-M4",
+    "title": "物語",
+    "title_yomi": null,
+    "composer": "木下牧子",
+    "lyricist": "三好達治",
+    "original_author": null,
+    "arranger": null,
+    "is_arrangement": false,
+    "collection": "Enfance finie",
+    "voicing_category": "男声",
+    "voicing_detail": null,
+    "language": null,
+    "accompaniment": "ピアノ伴奏",
+    "source_type": "コンクール課題曲",
+    "source_detail": {
+      "contest_year": 2018,
+      "contest_round": null,
+      "edition_no": 48,
+      "piece_code": "M4"
+    },
+    "publisher": "全日本合唱連盟",
+    "tags": [],
+    "notes": null,
+    "needs_review": false,
+    "confidence": 1.0,
+    "sources": [
+      {
+        "url": "https://jcanet.or.jp/Public/meikyoku/meikyoku-No48.htm",
+        "retrieved_at": "2026-06-22T00:00:00+00:00",
+        "raw_text": "物語（「Enfance finie」から） （三好達治 詩／木下牧子 曲）"
+      }
+    ],
+    "created_at": "2026-06-22T00:00:00+00:00",
+    "updated_at": "2026-06-22T00:00:00+00:00"
+  }
+]
