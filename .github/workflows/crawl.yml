@@ -24,6 +24,8 @@ jobs:
           python-version: "3.12"
 
       - name: Install dependencies
+        run: pip install requests beautifulsoup4
+
       - name: Debug - raw page structure
         run: |
           python - << 'PYEOF'
@@ -41,7 +43,6 @@ jobs:
               if s:
                   print(f"{i:4d}: {repr(s[:120])}")
           PYEOF
-        run: pip install requests beautifulsoup4
 
       - name: Run crawler (dry-run)
         if: ${{ github.event.inputs.dry_run == 'true' }}
