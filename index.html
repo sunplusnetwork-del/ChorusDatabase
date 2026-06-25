@@ -303,7 +303,7 @@
   let fuse = null;
 
   try {
-    const res = await fetch('data/songs.json');
+    const res = await fetch('songs.json');
     if (!res.ok) throw new Error('songs.json の取得に失敗: ' + res.status);
     songs = await res.json();
   } catch (err) {
