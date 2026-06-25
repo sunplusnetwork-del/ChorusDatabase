@@ -9,6 +9,14 @@ on:
         description: "true にすると songs.json を更新せず結果だけ表示する"
         required: false
         default: "false"
+      start_no:
+        description: "開始エディション番号（例: 1）"
+        required: false
+        default: ""
+      end_no:
+        description: "終了エディション番号（例: 47）"
+        required: false
+        default: ""
 
 permissions:
   contents: write
@@ -26,16 +34,21 @@ jobs:
       - name: Install dependencies
         run: pip install requests beautifulsoup4
 
-      - name: Debug - raw page structure
-        run: python debug_fetch.py
-
       - name: Run crawler (dry-run)
         if: ${{ github.event.inputs.dry_run == 'true' }}
-        run: python jca_meikyoku_crawler.py --dry-run
+        run: |
+          ARGS=""
+          if [ -n "${{ github.event.inputs.start_no }}" ]; then ARGS="$ARGS --start-no ${{ github.event.inputs.start_no }}"; fi
+          if [ -n "${{ github.event.inputs.end_no }}" ]; then ARGS="$ARGS --end-no ${{ github.event.inputs.end_no }}"; fi
+          python jca_meikyoku_crawler.py --dry-run $ARGS
 
       - name: Run crawler
         if: ${{ github.event.inputs.dry_run != 'true' }}
-        run: python jca_meikyoku_crawler.py
+        run: |
+          ARGS=""
+          if [ -n "${{ github.event.inputs.start_no }}" ]; then ARGS="$ARGS --start-no ${{ github.event.inputs.start_no }}"; fi
+          if [ -n "${{ github.event.inputs.end_no }}" ]; then ARGS="$ARGS --end-no ${{ github.event.inputs.end_no }}"; fi
+          python jca_meikyoku_crawler.py $ARGS
 
       - name: Commit and push if changed
         if: ${{ github.event.inputs.dry_run != 'true' }}
